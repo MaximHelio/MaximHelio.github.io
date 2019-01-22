@@ -1,10 +1,7 @@
-## Karl Broman&rsquo;s website
+# Technical Portfolio
 
-See [kbroman.org](https://kbroman.org).
+This repository hosts a technical portfolio built using [TechFolio](http://techfolios.github.io). 
 
----
+See the quick start guide for instructions on how to tailor the template to your own needs.
 
-My parts of this web site are licensed under
-[CC BY](https://creativecommons.org/licenses/by/3.0/).
 
-[![CC BY](https://i.creativecommons.org/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/3.0/)
