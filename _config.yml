@@ -14,7 +14,7 @@ picture: assets/images/nam.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://namtk.github.io/assets/resume.pdf
 
 url: https://namtk.github.io
 # your url: http://namtk.github.io
