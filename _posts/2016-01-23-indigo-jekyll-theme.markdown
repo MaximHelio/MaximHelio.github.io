@@ -1,35 +1,15 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "ManiNetCluster: A Manifold Learning Approach to Reveal Functional Linkage Across Multiple Gene Networks"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
 author: johndoe
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
-
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+The coordination of genome encoded function is a critical and complex process in biological systems, especially across phenotypes or states (e.g., time, disease, organism). Understanding how the complexity of genome-encoded function relates to these states remains a challenge. To address this, we have developed a novel computational method based on manifold learning and comparative analysis, ManiNetCluster, which simultaneously aligns and clusters multiple molecular networks to systematically reveal function links across multiple datasets. Specifically, ManiNetCluster employs manifold learning to match local and nonlinear structures among the networks of different states, to identify cross-network linkages. By applying ManiNetCluster to the developmental gene expression datasets across model organisms (e.g., worm, fruit fly), we found that our tool significantly better aligns the orthologous genes than existing state-of-the-art methods, indicating the nonlinear interactions between evolutionary functions in development. Moreover, we applied ManiNetCluster to a series of transcriptomes measured in the green alga Chlamydomonas reinhardtii, to determine the function links between various metabolic processes between the light and dark periods of a diurnally cycling culture. For example, we identify a number of genes putatively regulating processes across each lighting regime, and how comparative analyses between ManiNetCluster and other clustering tools can provide additional insights.
 
 ---
 
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
-
----
-
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+[Check it out](https://github.com/namtk/ManiNetCluster) here.
