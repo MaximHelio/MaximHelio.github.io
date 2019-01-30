@@ -17,7 +17,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+# your url: http://namtk.github.io
 
 permalink: /:title/
 
@@ -34,15 +34,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: namtk
+# twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: namtrk
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: namtrk
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: namtk
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,7 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: ndnguyen@cs.stonybrook.edu
 
 authors:
     johndoe:
@@ -81,7 +81,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
