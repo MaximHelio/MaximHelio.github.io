@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://namtk.github.io
 # your url: http://namtk.github.io
 
 permalink: /:title/
@@ -48,7 +48,7 @@ github: namtk
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: ndnguyen@cs.stonybrook.edu
