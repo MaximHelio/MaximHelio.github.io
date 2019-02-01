@@ -15,7 +15,7 @@ layout: page
 	<li>Machine Learning on Graphs and Manifolds</li>
 	<li>Geometric Deep Learning</li>
 	<li>Network Science</li>
-	<li>Computational Biology</li></ul>
+	<li>Computational Biology</li>
 	<li>Optimization</li></ul>
 
 
