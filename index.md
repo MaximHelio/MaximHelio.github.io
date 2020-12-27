@@ -1,68 +1,82 @@
 ---
 layout: homepage
 ---
+## About
+
+I am a Ph.D. candidate in the [Deparment of Computer Science](https://cs.stonybrook.edu/) at [Stony Brook University](https://stonybrook.edu/). I am also a research fellow in [Daifeng Wang Laboratory](https://daifengwanglab.org) in [Waisman Center](https://www.waisman.wisc.edu) at [University of Wisconsin-Madison](http://www.wisc.edu). I specialize in Machine Learning and Bioinformatics.
+<br>
+[[Curriculum Vitae](./assets/NamNguyen_CV.pdf)]
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Bioinformatics:** computational genomics, single-cell multiomics, biological networks
+- **Machine Learning:** multiview learning, geometric deep learning, interpretable learning, theoretical machine learning
 
 ## News
 
-- **[Feb 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sep 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **[Dec 2020]** I pass my thesis proposal defense on [Interpretable Multiview Learning for Understanding Functional Multiomics](./assets/proposal.pdf).
+- **[Nov 2020]** I give an oral presentation in [RECOMB RSG 2020](https://www.iscb.org/recomb-regsysgen2020).
+- **[Nov 2020]** Our paper on a generative model for revealing gene regulatory mechanisms is published in [Bioinformatics](https://academic.oup.com/bioinformatics).
+- **[Oct 2019]** Our paper on an interpretable deep architecture for genotype-phenotype interactions is published in [Bioinformatics](https://academic.oup.com/bioinformatics).
 
-## Publications
+## Journal Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+\*equal contribution
+<br>
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **ECMarker: interpretable machine learning model identifies gene expression biomarkers predicting clinical outcomes and reveals molecular mechanisms of human disease in early stages**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Ting Jin\*, **Nam D. Nguyen\***, Flaminia Talos, Daifeng Wang
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  *Bioinformatics* (2020), btaa935, https://doi.org/10.1093/bioinformatics/btaa935.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](./assets/btaa935.pdf)] [[Code](https://github.com/daifengwanglab/ECMarker)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Varmole: a biologically drop-connect deep neural network model for prioritizing disease risk variants and genes**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **Nam D. Nguyen**, Ting Jing, Daifeng Wang
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  *Bioinformatics* (2020), btaa866, https://doi.org/10.1093/bioinformatics/btaa866.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[PDF](./assets/btaa866.pdf)] [[Code](https://github.com/daifengwanglab/Varmole)]
+
+- **Multiview learning for understanding functional multiomics**
+  <br>
+  **Nam D. Nguyen**, Daifeng Wang
+  <br>
+  *PLOS Computational Biology* 16.4 (2020), e1007677, https://doi.org/10.1371/journal.pcbi.1007677.
+  <br>
+  [[PDF](./assets/multiview.pdf)]
+  
+- **ManiNetCluster: a novel manifold learning approach to reveal the functional links between gene networks**
+  <br>
+  **Nam D. Nguyen**, Ian K. Blaby, Daifeng Wang
+  <br>
+  *BMC Genomics* 20.12 (2019), pp. 1–14, https://doi.org/10.1186/s12864-019-6329-2.
+  <br>
+  [[PDF](./assets/ManiNetCluster.pdf)] [[Code](https://github.com/namtk/ManiNetCluster)]
 
 
 ## Selected Talks
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Varmole: a biologically drop-connect deep neural network model for prioritizing disease risk variants and genes**
   <br>
-  NeurIPS Official Meetups
-  <br>
-  Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
+  The 13th annual RECOMB/ISCB Conference on Regulatory & Systems Genomics with DREAM Challenges. **RECOMB RSG DREAM 2020**.
+ [[Slides](./assets/RSG2020.pdf)]
 
-- **Multi-Class Incremental Learning**
+- **Multiview learning for understanding functional multiomics**
   <br>
-  School of Computer Science and Engineering, Nanyang Technological University
-  <br>
-  Singapore, July 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf)]
+  The 28th Conference on Intelligent Systems for Molecular Biology. **ISMB 2020**.
+  [[Slides](https://f1000research.com/slides/9-911)] [[Poster](https://f1000research.com/posters/9-910)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **ManiNetCluster: a novel manifold learning approach to reveal the functional links between gene networks**
   <br>
-  School of Computing, National University of Singapore
+  International Conference on Intelligent Biology and Medicine. **ICIBM 2019**.
   <br>
-  Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
+  Columbus, OH, USA, June 9-11, 2019 [[Slides](./assets/ICIBM2019.pdf)]
 
-## Services
+## Activities
 
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+- Mentor for CSIRE ([Computer Science and Informatics Summer Research Experience Program](https://bmi.stonybrookmedicine.edu/csire)), 2018.
+- TA for CSE114: [Introduction to Object-Oriented Programming](https://www.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE114), 2017.
+- TA for CSE101: [Computer Science Principles](https://www.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE101), 2016.
