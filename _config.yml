@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : jayrobw
+  username               : namtrk
 facebook:
   username               :
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Nam D. Nguyen"
   avatar           : "profile.png"
   bio              : "Postdoctoral Research Fellow"
   location         : "St. Louis, MO"
