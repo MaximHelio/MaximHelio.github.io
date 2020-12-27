@@ -1,0 +1,98 @@
+I"–<h2 id="about">About</h2>
+
+<p>I am a Ph.D. candidate in the <a href="https://cs.stonybrook.edu/">Deparment of Computer Science</a> at <a href="https://stonybrook.edu/">Stony Brook University</a>. I am also a research fellow in <a href="https://daifengwanglab.org">Daifeng Wang Laboratory</a> in <a href="https://www.waisman.wisc.edu">Waisman Center</a> at <a href="http://www.wisc.edu">University of Wisconsin-Madison</a>. I specialize in Machine Learning and Bioinformatics.
+<br />
+[<a href="./assets/NamNguyen_CV.pdf">Curriculum Vitae</a>]</p>
+
+<h2 id="research-interests">Research Interests</h2>
+
+<ul>
+  <li><strong>Bioinformatics:</strong> computational genomics, single-cell multiomics, biological networks</li>
+  <li><strong>Machine Learning:</strong> multiview learning, geometric deep learning, interpretable learning, theoretical machine learning</li>
+</ul>
+
+<h2 id="news">News</h2>
+
+<ul>
+  <li><strong>[Dec 2020]</strong> I pass my thesis proposal defense on <a href="./assets/proposal.pdf">Interpretable Multiview Learning for Understanding Functional Multiomics</a>.</li>
+  <li><strong>[Nov 2020]</strong> I give an oral presentation in <a href="https://www.iscb.org/recomb-regsysgen2020">RECOMB RSG 2020</a>.</li>
+  <li><strong>[Nov 2020]</strong> Our paper on a generative model for revealing gene regulatory mechanisms is published in <a href="https://academic.oup.com/bioinformatics">Bioinformatics</a>.</li>
+  <li><strong>[Oct 2019]</strong> Our paper on an interpretable deep architecture for genotype-phenotype interactions is published in <a href="https://academic.oup.com/bioinformatics">Bioinformatics</a>.</li>
+</ul>
+
+<h2 id="journal-publications">Journal Publications</h2>
+
+<p>*equal contribution
+<br /></p>
+
+<ul>
+  <li>
+    <p><strong>ECMarker: interpretable machine learning model identifies gene expression biomarkers predicting clinical outcomes and reveals molecular mechanisms of human disease in early stages</strong>
+<br />
+Ting Jin*, <strong>Nam D. Nguyen*</strong>, Flaminia Talos, Daifeng Wang
+<br />
+<em>Bioinformatics</em> (2020), btaa935, https://doi.org/10.1093/bioinformatics/btaa935.
+<br />
+[<a href="./assets/btaa935.pdf">PDF</a>] [<a href="https://github.com/daifengwanglab/ECMarker">Code</a>]</p>
+  </li>
+  <li>
+    <p><strong>Varmole: a biologically drop-connect deep neural network model for prioritizing disease risk variants and genes</strong>
+<br />
+<strong>Nam D. Nguyen</strong>, Ting Jing, Daifeng Wang
+<br />
+<em>Bioinformatics</em> (2020), btaa866, https://doi.org/10.1093/bioinformatics/btaa866.
+<br />
+[<a href="./assets/btaa866.pdf">PDF</a>] [<a href="https://github.com/daifengwanglab/Varmole">Code</a>]</p>
+  </li>
+  <li>
+    <p><strong>Multiview learning for understanding functional multiomics</strong>
+<br />
+<strong>Nam D. Nguyen</strong>, Daifeng Wang
+<br />
+<em>PLOS Computational Biology</em> 16.4 (2020), e1007677, https://doi.org/10.1371/journal.pcbi.1007677.
+<br />
+[<a href="./assets/multiview.pdf">PDF</a>]</p>
+  </li>
+  <li>
+    <p><strong>ManiNetCluster: a novel manifold learning approach to reveal the functional links between gene networks</strong>
+<br />
+<strong>Nam D. Nguyen</strong>, Ian K. Blaby, Daifeng Wang
+<br />
+<em>BMC Genomics</em> 20.12 (2019), pp. 1â€“14, https://doi.org/10.1186/s12864-019-6329-2.
+<br />
+[<a href="./assets/ManiNetCluster.pdf">PDF</a>] [<a href="https://github.com/namtk/ManiNetCluster">Code</a>]</p>
+  </li>
+</ul>
+
+<h2 id="selected-talks">Selected Talks</h2>
+
+<ul>
+  <li>
+    <p><strong>Varmole: a biologically drop-connect deep neural network model for prioritizing disease risk variants and genes</strong>
+<br />
+The 13th annual RECOMB/ISCB Conference on Regulatory &amp; Systems Genomics with DREAM Challenges. <strong>RECOMB RSG DREAM 2020</strong>.
+ [<a href="./assets/RSG2020.pdf">Slides</a>]</p>
+  </li>
+  <li>
+    <p><strong>Multiview learning for understanding functional multiomics</strong>
+<br />
+The 28th Conference on Intelligent Systems for Molecular Biology. <strong>ISMB 2020</strong>.
+[<a href="https://f1000research.com/slides/9-911">Slides</a>] [<a href="https://f1000research.com/posters/9-910">Poster</a>]</p>
+  </li>
+  <li>
+    <p><strong>ManiNetCluster: a novel manifold learning approach to reveal the functional links between gene networks</strong>
+<br />
+International Conference on Intelligent Biology and Medicine. <strong>ICIBM 2019</strong>.
+<br />
+Columbus, OH, USA, June 9-11, 2019 [<a href="./assets/ICIBM2019.pdf">Slides</a>]</p>
+  </li>
+</ul>
+
+<h2 id="activities">Activities</h2>
+
+<ul>
+  <li>Mentor for CSIRE (<a href="https://bmi.stonybrookmedicine.edu/csire">Computer Science and Informatics Summer Research Experience Program</a>), 2018.</li>
+  <li>TA for CSE114: <a href="https://www.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE114">Introduction to Object-Oriented Programming</a>, 2017.</li>
+  <li>TA for CSE101: <a href="https://www.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE101">Computer Science Principles</a>, 2016.</li>
+</ul>
+:ET
