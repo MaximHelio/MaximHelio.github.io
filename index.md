@@ -3,9 +3,9 @@ layout: homepage
 ---
 ## About
 
-I am a Ph.D. candidate in the [Deparment of Computer Science](https://cs.stonybrook.edu/) at [Stony Brook University](https://stonybrook.edu/). I am also a research fellow in [Daifeng Wang Laboratory](https://daifengwanglab.org) in [Waisman Center](https://www.waisman.wisc.edu) at [University of Wisconsin-Madison](http://www.wisc.edu). I specialize in Machine Learning and Bioinformatics.
+I am a Ph.D. candidate in the [Deparment of Computer Science](https://cs.stonybrook.edu/) at [Stony Brook University](https://stonybrook.edu/). I am also a research fellow in [Daifeng Wang Laboratory](https://daifengwanglab.org) in [Waisman Center](https://www.waisman.wisc.edu) at [University of Wisconsin-Madison](http://www.wisc.edu). I specialize in Machine Learning and Bioinformatics. I earned my B.Eng. in Computer Science from [Hanoi University of Science and Technology](https://hust.edu.vn).
 <br>
-[[Curriculum Vitae](./assets/NamNguyen_CV.pdf)]
+[[Resume](./assets/Nam_Nguyen_CV.pdf)]
 
 ## Research Interests
 
