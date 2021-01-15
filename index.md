@@ -17,7 +17,7 @@ I am a Ph.D. candidate in [Computer Science](https://cs.stonybrook.edu/) at [Sto
 - **[Dec 2020]** I pass my thesis proposal defense on [Interpretable Multiview Learning for Understanding Functional Multiomics](./assets/proposal.pdf).
 - **[Nov 2020]** I give an oral presentation in [RECOMB RSG 2020](https://www.iscb.org/recomb-regsysgen2020).
 - **[Nov 2020]** Our paper on a generative model for revealing gene regulatory mechanisms is published in [Bioinformatics](https://academic.oup.com/bioinformatics).
-- **[Oct 2019]** Our paper on an interpretable deep architecture for genotype-phenotype interactions is published in [Bioinformatics](https://academic.oup.com/bioinformatics).
+- **[Oct 2020]** Our paper on an interpretable deep architecture for genotype-phenotype interactions is published in [Bioinformatics](https://academic.oup.com/bioinformatics).
 
 ## Journal Publications
 
