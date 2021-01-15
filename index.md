@@ -3,14 +3,14 @@ layout: homepage
 ---
 ## About
 
-I am a Ph.D. candidate in the [Deparment of Computer Science](https://cs.stonybrook.edu/) at [Stony Brook University](https://stonybrook.edu/). I am also a research fellow in [Daifeng Wang Laboratory](https://daifengwanglab.org) in [Waisman Center](https://www.waisman.wisc.edu) at [University of Wisconsin-Madison](http://www.wisc.edu). I specialize in Machine Learning and Bioinformatics. I earned my B.Eng. in Computer Science from [Hanoi University of Science and Technology](https://hust.edu.vn).
+I am a Ph.D. candidate in [Computer Science](https://cs.stonybrook.edu/) at [Stony Brook University](https://stonybrook.edu/), and a research fellow in [Daifeng Wang Laboratory](https://daifengwanglab.org) in [Waisman Center](https://www.waisman.wisc.edu) at [University of Wisconsin-Madison](http://www.wisc.edu). My current research interest is machine learning on graphs and manifolds, and their applications for understanding molecular mechanisms and improving genotype-phenotype predictions in complex biological systems. I earned my B.Eng. in Computer Science from [Hanoi University of Science and Technology](https://hust.edu.vn).
 <br>
 [[Resume](./assets/Nam_Nguyen_CV.pdf)]
 
 ## Research Interests
 
 - **Bioinformatics:** computational genomics, single-cell multiomics, biological networks
-- **Machine Learning:** multiview learning, geometric deep learning, interpretable learning, theoretical machine learning
+- **Machine Learning:** multiview learning, geometric deep learning, interpretable learning, statistical learning theory
 
 ## News
 
