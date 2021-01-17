@@ -5,6 +5,8 @@ layout: homepage
 
 I am a Ph.D. candidate in [Computer Science](https://cs.stonybrook.edu/) at [Stony Brook University](https://stonybrook.edu/), and a research fellow in [Daifeng Wang Laboratory](https://daifengwanglab.org) in [Waisman Center](https://www.waisman.wisc.edu) at [University of Wisconsin-Madison](http://www.wisc.edu). My current research interest is machine learning on graphs and manifolds, and their applications for understanding molecular mechanisms and improving genotype-phenotype predictions in complex biological systems. I earned my B.Eng. in Computer Science from [Hanoi University of Science and Technology](https://hust.edu.vn).
 <br>
+Personally, I am an [avid readear](https://www.goodreads.com/user/show/19504526-tran-ki-nam) and an [amateur photographer](https://500px.com/p/tkn?view=photos).
+<br>
 [[Resume](./assets/Nam_Nguyen_CV.pdf)]
 
 ## Research Interests
