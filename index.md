@@ -64,7 +64,8 @@ Personally, I am an [avid readear](https://www.goodreads.com/user/show/19504526-
   <br>
   **Nam D. Nguyen**, Jiawei Huang, Daifeng Wang
   <br>
-  bioRxiv 2021.01.28.428715.
+  bioRxiv 2021.01.28.428715, https://doi.org/10.1101/2021.01.28.428715.
+  <br>
  [[PDF](./assets/deepManReg.pdf)]
 
 
