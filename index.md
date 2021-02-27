@@ -66,7 +66,7 @@ Personally, I am an [avid readear](https://www.goodreads.com/user/show/19504526-
   <br>
   bioRxiv 2021.01.28.428715, https://doi.org/10.1101/2021.01.28.428715.
   <br>
- [[PDF](./assets/deepManReg.pdf)]
+ [[PDF](./assets/deepManReg.pdf)] [[Code](https://github.com/daifengwanglab/deepManReg)]
 
 
 ## Selected Talks
