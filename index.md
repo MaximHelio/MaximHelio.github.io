@@ -57,6 +57,15 @@ Personally, I am an [avid readear](https://www.goodreads.com/user/show/19504526-
   *BMC Genomics* 20.12 (2019), pp. 1–14, https://doi.org/10.1186/s12864-019-6329-2.
   <br>
   [[PDF](./assets/ManiNetCluster.pdf)] [[Code](https://github.com/namtk/ManiNetCluster)]
+  
+## Under Review/In Preparation
+
+- **deepManReg: A deep manifold‐regularized learning model for improving phenotype prediction from multi‐modal data**
+  <br>
+  **Nam D. Nguyen**, Jiawei Huang, Daifeng Wang
+  <br>
+  bioRxiv 2021.01.28.428715.
+ [[PDF](./assets/deepManReg.pdf)]
 
 
 ## Selected Talks
