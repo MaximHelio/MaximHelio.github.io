@@ -7,7 +7,7 @@ I am a Ph.D. candidate in [Computer Science](https://cs.stonybrook.edu/) at [Sto
 <br>
 Personally, I am an [avid readear](https://www.goodreads.com/user/show/19504526-tran-ki-nam) and an [amateur photographer](https://500px.com/p/tkn?view=photos).
 <br>
-[[Resume](./assets/Nam_Nguyen_CV.pdf)]
+[[Resume](./assets/Nam_Nguyen_Resume (2).pdf)]
 
 ## Research Interests
 
@@ -16,6 +16,8 @@ Personally, I am an [avid readear](https://www.goodreads.com/user/show/19504526-
 
 ## News
 
+- **[April 2021]** I have been awarded the Ray and Stephanie Lane Fellowship from School of Computer Science, Carnegie Mellon University that supports scientists of outstanding intellect who are dedicated to a career at the interface of computational and biological sciences.
+- **[April 2021]** I have been selected for the [PostDoc-Net-AI Fellowship 2021](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/), a DAAD initiative funded by the Federal Ministry for Education and Research, bringing together young international researchers to visit the German hotspots in AI and to set the base for collaborations and career opportunities in AI and ML.
 - **[Dec 2020]** I pass my thesis proposal defense on [Interpretable Multiview Learning for Understanding Functional Multiomics](./assets/proposal.pdf).
 - **[Nov 2020]** I give an oral presentation in [RECOMB RSG 2020](https://www.iscb.org/recomb-regsysgen2020).
 - **[Nov 2020]** Our paper on a generative model for revealing gene regulatory mechanisms is published in [Bioinformatics](https://academic.oup.com/bioinformatics).
