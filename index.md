@@ -11,13 +11,14 @@ Personally, I am an [avid readear](https://www.goodreads.com/user/show/19504526-
 
 ## Research Interests
 
-- **Bioinformatics:** computational genomics, single-cell multiomics, biological networks
-- **Machine Learning:** multiview learning, geometric deep learning, interpretable learning, statistical learning theory
+- **Machine Learning:** multiview learning, representation learning, geometric deep learning, interpretable learning, quantum machine learning, statistical learning theory
+- **Network Science:** link prediction, network diffusion, network embedding, network curvatures, social & bilogiccal network analysis
+- **Bioinformatics:** computational genomics, single-cell multiomics, gene & genome regulation, precision medicine, neurobiology
 
 ## News
 
-- **[April 2021]** I have been awarded the Ray and Stephanie Lane Fellowship from School of Computer Science, Carnegie Mellon University that supports scientists of outstanding intellect who are dedicated to a career at the interface of computational and biological sciences.
-- **[April 2021]** I have been selected for the [PostDoc-Net-AI Fellowship 2021](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/), a DAAD initiative funded by the Federal Ministry for Education and Research, bringing together young international researchers to visit the German hotspots in AI and to set the base for collaborations and career opportunities in AI and ML.
+- **[April 2021]** I am awarded the Ray and Stephanie Lane Fellowship from School of Computer Science, Carnegie Mellon University, supporting scientists of outstanding intellect who are dedicated to a career at the interface of computational and biological sciences.
+- **[April 2021]** I am selected for the [PostDoc-Net-AI Fellowship 2021](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/), a DAAD initiative funded by the Federal Ministry for Education and Research, bringing together young international researchers to visit the German hotspots in AI and to set the base for collaborations and career opportunities in AI and ML.
 - **[Dec 2020]** I pass my thesis proposal defense on [Interpretable Multiview Learning for Understanding Functional Multiomics](./assets/proposal.pdf).
 - **[Nov 2020]** I give an oral presentation in [RECOMB RSG 2020](https://www.iscb.org/recomb-regsysgen2020).
 - **[Nov 2020]** Our paper on a generative model for revealing gene regulatory mechanisms is published in [Bioinformatics](https://academic.oup.com/bioinformatics).
@@ -25,7 +26,7 @@ Personally, I am an [avid readear](https://www.goodreads.com/user/show/19504526-
 
 ## Journal Publications
 
-\*equal contribution
+\*joint first authorship
 <br>
 
 - **ECMarker: interpretable machine learning model identifies gene expression biomarkers predicting clinical outcomes and reveals molecular mechanisms of human disease in early stages**
