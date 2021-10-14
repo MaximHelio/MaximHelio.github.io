@@ -3,7 +3,7 @@ layout: homepage
 ---
 ## About
 
-I am a Lane Fellow at the [Computational Biology Department](https://cbd.cmu.edu) in [School of Computer Science](https://www.cs.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu), working with Professor [Ziv Bar-Joseph](https://www.cs.cmu.edu/~zivbj/). Prior to that, I recevied my Ph.D. degree in [Computer Science](https://cs.stonybrook.edu/) at [Stony Brook University](https://stonybrook.edu/), and a research fellow in [Daifeng Wang Laboratory](https://daifengwanglab.org) in [Waisman Center](https://www.waisman.wisc.edu) at [University of Wisconsin-Madison](http://www.wisc.edu). 
+I am a Lane Fellow at the [Computational Biology Department](https://cbd.cmu.edu) in [School of Computer Science](https://www.cs.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu), working with Professor [Ziv Bar-Joseph](https://www.cs.cmu.edu/~zivbj/). Prior to that, I recevied my Ph.D. degree in [Computer Science](https://cs.stonybrook.edu/) at [Stony Brook University](https://stonybrook.edu/), and worked as a research fellow in [Daifeng Wang Laboratory](https://daifengwanglab.org) in [Waisman Center](https://www.waisman.wisc.edu) at [University of Wisconsin-Madison](http://www.wisc.edu). 
 
 My current research interest is machine learning on graphs and manifolds, and their applications for understanding molecular mechanisms and improving genotype-phenotype predictions in complex biological systems. I am also interested in ethical/epistemological/social aspects of AI/ML (e.g., machine learning fairness, explainability in AI/data-driven scientific discoveries, AI for social good).
 <br><br>
