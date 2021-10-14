@@ -3,7 +3,9 @@ layout: homepage
 ---
 ## About
 
-I am a Ph.D. candidate in [Computer Science](https://cs.stonybrook.edu/) at [Stony Brook University](https://stonybrook.edu/), and a research fellow in [Daifeng Wang Laboratory](https://daifengwanglab.org) in [Waisman Center](https://www.waisman.wisc.edu) at [University of Wisconsin-Madison](http://www.wisc.edu). My current research interest is machine learning on graphs and manifolds, and their applications for understanding molecular mechanisms and improving genotype-phenotype predictions in complex biological systems. I am also interested in ethical/epistemological/social aspects of AI/ML (e.g., machine learning fairness, explainability in AI/data-driven scientific discoveries, AI for social good). I earned my B.Eng. in Computer Science from [Hanoi University of Science and Technology](https://hust.edu.vn).
+I am a Lane Fellow at the [Computational Biology Department](https://cbd.cmu.edu) in [School of Computer Science](https://www.cs.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu), working with Professor [Ziv Bar-Joseph](https://www.cs.cmu.edu/~zivbj/). Prior to that, I recevied my Ph.D. degree in [Computer Science](https://cs.stonybrook.edu/) at [Stony Brook University](https://stonybrook.edu/), and a research fellow in [Daifeng Wang Laboratory](https://daifengwanglab.org) in [Waisman Center](https://www.waisman.wisc.edu) at [University of Wisconsin-Madison](http://www.wisc.edu). 
+
+My current research interest is machine learning on graphs and manifolds, and their applications for understanding molecular mechanisms and improving genotype-phenotype predictions in complex biological systems. I am also interested in ethical/epistemological/social aspects of AI/ML (e.g., machine learning fairness, explainability in AI/data-driven scientific discoveries, AI for social good).
 <br><br>
 [[Resume](./assets/Nam_Nguyen_Resume (2).pdf)]
 <br><br>
@@ -17,6 +19,7 @@ Personally, I am an [avid readear](https://www.goodreads.com/user/show/19504526-
 
 ## News
 
+- **[June 2021]** I successfully defend my Ph.D. dissertation.
 - **[April 2021]** I am awarded the Ray and Stephanie Lane Fellowship from School of Computer Science, Carnegie Mellon University, supporting scientists of outstanding intellect who are dedicated to a career at the interface of computational and biological sciences.
 - **[April 2021]** I am selected for the [PostDoc-Net-AI Fellowship 2021](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/), a DAAD initiative funded by the Federal Ministry for Education and Research, bringing together young international researchers to visit the German hotspots in AI and to set the base for collaborations and career opportunities in AI and ML.
 - **[Dec 2020]** I pass my thesis proposal defense on [Interpretable Multiview Learning for Understanding Functional Multiomics](./assets/proposal.pdf).
