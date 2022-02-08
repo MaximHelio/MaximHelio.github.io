@@ -5,7 +5,7 @@ layout: homepage
 
 I am a Lane Fellow at the [Computational Biology Department](https://cbd.cmu.edu/) in [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), working with Professor [Ziv Bar-Joseph](https://www.cs.cmu.edu/~zivbj/). I was a research fellow in [Daifeng Wang Laboratory](https://daifengwanglab.org/) in [Waisman Center](https://www.waisman.wisc.edu/) at [University of Wisconsin-Madison](http://www.wisc.edu/). I received my PhD in  [Computer Science](https://cs.stonybrook.edu/) at [Stony Brook University](https://stonybrook.edu/) .
 
-My current research interest is machine learning on graphs and manifolds, and their applications for understanding molecular mechanisms and improving genotype-phenotype predictions in complex biological systems. I am also interested in ethical/epistemological/social aspects of AI/ML (e.g., machine learning fairness, explainability in AI/data-driven scientific discoveries, AI for social good).
+My current research interest is machine learning on graphs and manifolds, and their applications for understanding molecular mechanisms and improving genotype-phenotype predictions in complex biological systems. I am also interested in ethical/epistemological/societal aspects of AI/ML (e.g., machine learning fairness, explainability in AI/data-driven scientific discoveries, AI for social good).
 <br><br>
 [[Resume](./assets/Nam_Nguyen_Resume (2).pdf)]
 <br><br>
@@ -19,6 +19,7 @@ Personally, I am an [avid readear](https://www.goodreads.com/user/show/19504526-
 
 ## News
 
+- **[January 2022]** Our deepManReg is published in  [Nature Computational Science](https://www.nature.com/articles/s43588-021-00185-x). This new method solves the trade-off between nonlinear and parametric manifold alignment and learns cross-modal manifolds as a feature graph for improving phenotype prediction and prioritizing multi-modal features & links. News & Views about this work is [here](https://doi.org/10.1038/s43588-021-00186-w) .
 - **[June 2021]** I successfully defend my Ph.D. dissertation.
 - **[April 2021]** I am awarded the Ray and Stephanie Lane Fellowship from School of Computer Science, Carnegie Mellon University, supporting scientists of outstanding intellect who are dedicated to a career at the interface of computational and biological sciences.
 - **[April 2021]** I am selected for the [PostDoc-Net-AI Fellowship 2021](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/), a DAAD initiative funded by the Federal Ministry for Education and Research, bringing together young international researchers to visit the German hotspots in AI and to set the base for collaborations and career opportunities in AI and ML.
@@ -31,6 +32,13 @@ Personally, I am an [avid readear](https://www.goodreads.com/user/show/19504526-
 
 \*joint first authorship
 <br>
+
+- **A deep manifold-regularized learning model for improving phenotype prediction from multi-modal data**
+  <br>
+  **Nam D. Nguyen**, Jiawei Huang, Daifeng Wang
+  <br>
+  *Nature Computational Science* (2022), 2, 38--46, https://doi.org/10.1038/s43588-021-00185-x
+  [News & ](https://doi.org/10.1038/s43588-021-00186-w)
 
 - **ECMarker: interpretable machine learning model identifies gene expression biomarkers predicting clinical outcomes and reveals molecular mechanisms of human disease in early stages**
   <br>
@@ -63,16 +71,6 @@ Personally, I am an [avid readear](https://www.goodreads.com/user/show/19504526-
   *BMC Genomics* 20.12 (2019), pp. 1–14, https://doi.org/10.1186/s12864-019-6329-2.
   <br>
   [[PDF](./assets/ManiNetCluster.pdf)] [[Code](https://github.com/namtk/ManiNetCluster)]
-  
-## Under Review/In Preparation
-
-- **deepManReg: A deep manifold‐regularized learning model for improving phenotype prediction from multi‐modal data**
-  <br>
-  **Nam D. Nguyen**, Jiawei Huang, Daifeng Wang
-  <br>
-  bioRxiv 2021.01.28.428715, https://doi.org/10.1101/2021.01.28.428715.
-  <br>
- [[PDF](./assets/deepManReg.pdf)] [[Code](https://github.com/daifengwanglab/deepManReg)]
 
 
 ## Selected Talks
