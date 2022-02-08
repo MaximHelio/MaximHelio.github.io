@@ -38,7 +38,8 @@ Personally, I am an [avid readear](https://www.goodreads.com/user/show/19504526-
   **Nam D. Nguyen**, Jiawei Huang, Daifeng Wang
   <br>
   *Nature Computational Science* (2022), 2, 38--46, https://doi.org/10.1038/s43588-021-00185-x
-  [News & ](https://doi.org/10.1038/s43588-021-00186-w)
+  <br>
+  [News & Views](https://doi.org/10.1038/s43588-021-00186-w)
 
 - **ECMarker: interpretable machine learning model identifies gene expression biomarkers predicting clinical outcomes and reveals molecular mechanisms of human disease in early stages**
   <br>
