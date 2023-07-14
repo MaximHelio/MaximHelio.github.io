@@ -3,13 +3,13 @@ layout: homepage
 ---
 ## About
 
-I am a Lane Fellow at the [Computational Biology Department](https://cbd.cmu.edu/) in [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), working with Professor [Ziv Bar-Joseph](https://www.cs.cmu.edu/~zivbj/). I was a research fellow in [Daifeng Wang Laboratory](https://daifengwanglab.org/) in [Waisman Center](https://www.waisman.wisc.edu/) at [University of Wisconsin-Madison](http://www.wisc.edu/). I received my PhD in  [Computer Science](https://cs.stonybrook.edu/) at [Stony Brook University](https://stonybrook.edu/) .
+I am a Lane Fellow at the [Computational Biology Department](https://cbd.cmu.edu/) in [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), working with Professor [Ziv Bar-Joseph](https://www.cs.cmu.edu/~zivbj/). Previously, I was a research fellow in the [Daifeng Wang Laboratory](https://daifengwanglab.org/) at the [Waisman Center](https://www.waisman.wisc.edu/), [University of Wisconsin-Madison](http://www.wisc.edu/). I earned my PhD in  [Computer Science](https://cs.stonybrook.edu/) from [Stony Brook University](https://stonybrook.edu/) .
 
-My current research interest is machine learning on graphs and manifolds, and their applications for understanding molecular mechanisms and improving genotype-phenotype predictions in complex biological systems. I am also interested in ethical/epistemological/societal aspects of AI/ML (e.g., machine learning fairness, explainability in AI/data-driven scientific discoveries, AI for social good).
+My current research interest lies in machine learning on graphs and manifolds, and their applications for understanding molecular mechanisms and improving genotype-phenotype predictions in complex biological systems. Additionally, I am interested in the ethical, epistemological, and societal aspects of AI/ML, such as machine learning fairness, explainability in AI, data-driven scientific discoveries, and AI for social good.
 <br><br>
 [[Resume](./assets/Nam_Nguyen_Resume (2).pdf)]
 <br><br>
-Personally, I am an [avid readear](https://www.goodreads.com/user/show/19504526-tran-ki-nam), interested in philosophy and literature, and an [amateur photographer](https://500px.com/p/tkn?view=photos).
+On a personal note, I am an [avid readear](https://www.goodreads.com/user/show/19504526-tran-ki-nam) with a strong interest in philosophy and literature. I am also an [amateur photographer](https://500px.com/p/tkn?view=photos).
 
 ## Research Interests
 
