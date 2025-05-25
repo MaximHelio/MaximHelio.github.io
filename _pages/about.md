@@ -17,8 +17,10 @@ In my free time, I enjoy:
 🎓 I'm interested in ML-augmented simulation, excited-state dynamics, and quasi-particle research to control qubits.  
 👯 I’m looking to collaborate on developing new frameworks for complementing perturbation and approximation theory. 
 
-💌 Email: hkoh23@wisc.edu
-🧸 Toy Projects (GitHub): github.com/MaximHelio
-📚 Lecture Materials (GitHub): github.com/hkohoh
-💼 Commercial Projects (GitHub): github.com/gogomaya
+💌 Email: [hkoh23@wisc.edu](mailto:hkoh23@wisc.edu)  
 
+🧸 [Toy Projects (GitHub)](https://github.com/MaximHelio)  
+
+📚 [Lecture Materials (GitHub)] [github.com/hkohoh](https://github.com/hkohoh)  
+
+💼 [Commercial Projects (GitHub)] [github.com/gogomaya](https://github.com/gogomaya)
