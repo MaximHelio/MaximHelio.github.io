@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 
-## Teaching Experience
+## 🧑‍🏫 Teaching Experience
 
-- **Chem 103** – General Chemistry I (2025 Spring)
-- **Chem 109** – Advanced General Chemistry  (2024 Fall)
-- External lecturer/oursourcing in Computer Engineering  (2024-2025)
-  [Service profile](https://soomgo.com/profile/users/12391091?from=my_info_preview)
-  Lecture repository: https://github.com/hkohoh
-- College of Education Affiliate**, Ewha Womans University (2015–2019)  
-- **Donghang** - Volunteering to teach Mathematics/Chemistry at a high school in Seoul (2015-2018)
+- **Chem 103 – General Chemistry I** (Spring 2025)  
+- **Chem 109 – Advanced General Chemistry** (Fall 2024)  
+- **External Lecturer / Outsourcing – Computer Engineering** (2024–2025)  
+  - 🔗 [Service Profile](https://soomgo.com/profile/users/12391091?from=my_info_preview)  
+  - 📂 [Lecture Repository](https://github.com/hkohoh)  
+- **College of Education Affiliate – Ewha Womans University** (2015–2019)  
+- **Donghang – Volunteer Instructor (Mathematics/Chemistry), Seoul High School** (2015–2018)
