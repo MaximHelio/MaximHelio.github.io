@@ -15,7 +15,7 @@ redirect_from:
   * Final project in CS 761 (Mathematics for Machine Learning)  
   **🧪 PDE_RKHS**  
   📄 You can [download the slide here](/files/pdfs/PDE_RKHS.pdf).  
-  <!-- <iframe src="/files/pdfs/PDE_RKHS.pdf" width="100%" height="600px" style="border: none;"></iframe> -->
+  <iframe src="/files/pdfs/PDE_RKHS.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 * **Research Assistant, UW–Madison, Department of Chemistry – Schmidt Group  2024.12.–2025.05.**
   * Advisor: Prof. J.R. Schmidt  
@@ -41,7 +41,7 @@ redirect_from:
   * Delivered an oral presentation at the GIST internship program.
     **🧪 MEF**  
   📄 You can [download the slide here](/files/pdfs/MEF_THEORY.pdf).  
-  <!-- <iframe src="/files/pdfs/MEF_THEORY.pdf" width="100%" height="600px" style="border: none;"></iframe> -->
+  <iframe src="/files/pdfs/MEF_THEORY.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 * **Undergraduate Intern, Ewha Womans University – Polymer Computational Physical Chemistry Lab  2018.09.–2019.04.**
   * Advisor: Prof. Jun Soo Kim  
