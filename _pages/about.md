@@ -12,7 +12,7 @@ I'm currently living in the U.S., where I work and study Machine learning approa
 
 In my free time, I enjoy:
 - **Building** things: anything from the ground up (e.g., music, food, software)
-- **Writing** things: web novels, code, blog posts
+- **Writing** things: web novels, blog posts
 
 💌 Email: [hkoh23@wisc.edu](mailto:hkoh23@wisc.edu)  
 
