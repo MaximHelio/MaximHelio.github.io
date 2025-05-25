@@ -14,7 +14,7 @@ redirect_from:
 
 - **Chem 103 – General Chemistry I** (Spring 2025)  
 - **Chem 109 – Advanced General Chemistry** (Fall 2024)  
-- **External Lecturer / Outsourcing – Computer Engineering** (2024–2025)  
+- **External Lecturer / Outsourcing – Computer Engineering** 
   - 🔗 [Service Profile](https://soomgo.com/profile/users/12391091?from=my_info_preview)  
   - 📂 [Lecture Repository](https://github.com/hkohoh)  
 - **College of Education Affiliate – Ewha Womans University** (2015–2019)  
