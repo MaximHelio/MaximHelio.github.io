@@ -11,8 +11,8 @@ I'm originally from Gwangju, South Korea. After majoring in Chemistry, Nanoscien
 I'm currently living in the U.S., where I work and study Machine learning approaches to scientific computing.
 
 In my free time, I enjoy:
-- **Building** things: anything from the ground up (e.g., music, food, software)
-- **Writing** things: web novels, blog posts
+- **Building** : anything from the ground up (e.g., music, food, software)
+- **Writing** : web novels, blog posts
 
 💌 Email: [hkoh23@wisc.edu](mailto:hkoh23@wisc.edu)  
 

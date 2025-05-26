@@ -51,7 +51,7 @@ Work Experience
     * Developed anti-scraping bot (Node.js) products.
 
 
-Certifications
+Certifications & Honors
 =======================
 
 * **Top Employee Award, Shinhan Financial Group Corporation Ltd 2022**
