@@ -37,7 +37,6 @@ Work Experience
   * Cambodia's BPR(Business Process Reengineering) system Project
     * Digitalized the function of previous analogue delivery process of valuable documents for loans through the branches.
     * Designed a screen for preventing non-authoritative document scanning.
-    * Leaded Conference and Communication Overall.
     * Maintenance of India's Important Property Documents Scan System
   * Maintained the scan system of important property documents for loans.
     * Shift of Flex Screen to Html5 Project across the country
