@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm originally from Gwangju, South Korea. After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a software developer for three years.  
-I'm currently living in the U.S., where I work and study Machine learning approaches to scientific computing.
+I'm currently living in the U.S., where I work and study quantum simulation and machine learning approaches to scientific computing.
 
 In my free time, I enjoy:
 - **Building** : anything from the ground up (e.g., music, food, software)
