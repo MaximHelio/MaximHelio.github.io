@@ -11,7 +11,7 @@ redirect_from:
 
 
 ## Research Experience
-* **Course Project, UW–Madison, Department of Computer Science and Engineering  2025.04.–2025.05.**  
+* **Course Project, UW–Madison, Department of Electrical & Computer Engineering - UW-Madison  2025.04.–2025.05.**  
   * Final project in CS 761 (Mathematics for Machine Learning)  
   **🧪 PDE_RKHS**  
   📄 You can [download the slide here](/files/pdfs/PDE_RKHS.pdf).  
