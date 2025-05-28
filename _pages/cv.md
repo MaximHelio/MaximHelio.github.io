@@ -39,9 +39,8 @@ Work Experience
     * Designed a screen for preventing non-authoritative document scanning.
     * Maintenance of India's Important Property Documents Scan System
   * Maintained the scan system of important property documents for loans.
-    * Shift of Flex Screen to Html5 Project across the country
-    * Developed “Help Management Tools” screen and function for Vietnam and Mexico.
-    * Developed database and utilization functions using C.
+  * Shift of Flex Screen to Html5 Project across the country
+    * Changed screens written in flex into html5/css for Vietnam and Mexico branches
     * FE: html5, actionscript / BE: C, Oracle, SQL
 * **Junior Software Engineer, FE, Sandslab Co., Ltd, S. Korea 2021.09.–2022.01.**
   * Company Solutions Home Page [malwares.com](https://www.ctx.io/) Renewal Project
