@@ -19,8 +19,9 @@ redirect_from:
 
 * **Research Assistant, UW–Madison, Department of Chemistry – Schmidt Group  2024.12.–2025.05.**
   * Advisor: Prof. J.R. Schmidt  
-  * Performed Density Functional Theory (DFT) simulations using VASP to study electrocatalytic reaction mechanisms on Cu and Pt surfaces.  
-  * Investigated Bz and hydrogen adsorption, charge transfer processes, and surface energetics.
+    * Conducted Density Functional Theory (DFT) calculations using VASP to investigate electrocatalytic reaction mechanisms on Cu and Pt surfaces.
+    * Studied adsorption behaviors of benzene (Bz) and hydrogen, including associated charge transfer phenomena and surface energetics.
+    * Employed the Nudged Elastic Band (NEB) method to determine reaction pathways and energy barriers for the Oxygen Reduction Reaction (ORR).
 
 * **Lab Rotation Project, UW–Madison, Department of Chemistry – *Huang Group*  2024.10.–2025.11.**  
   * Advisor: Prof. Xuhui Huang  
