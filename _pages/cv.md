@@ -38,7 +38,7 @@ Work Experience
     * Digitalized the function of previous analogue delivery process of valuable documents for loans through the branches.
     * Designed a screen for preventing non-authoritative document scanning.
     * Maintenance of India's Important Property Documents Scan System
-  * Maintained the scan system of important property documents for loans.
+  * Maintained the scan system of important property documents for loans in India Mumbai branch.
   * Shift of Flex Screen to Html5 Project across the country
     * Changed screens written in flex into html5/css/actionscript for Vietnam and Mexico branches
     * FE: html5, actionscript / BE: C, Oracle, SQL
