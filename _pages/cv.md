@@ -63,5 +63,5 @@ Certifications & Honors
   * National technical license covering software development, system analysis, and data processing principles.
 
 * **Samsung Software Academy for Youth (SSAFY), Samsung Electronics 2021.01.–2021.06.**
-  * Completed a 6-month, full-time software engineering program with monthly stipend funded by Samsung Electronics.
+  * Completed a full-time software engineering program funded by Samsung Electronics.
   * Focused on Python, algorithm optimization, and web project deployment.
