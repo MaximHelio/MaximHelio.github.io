@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D Physical Chemistry, University of Wisconsin-Madison, 2029 (Expected)
-* B.S. Chemistry and Nanoscience, Ewha Womans Universiy
+* B.S. Chemistry and Nanoscience, Ewha Womans Universiy, 2021
   * Summa Cum Laude
   * Dean's List for 6 semesters
   * Full tuition and stipend for admission
