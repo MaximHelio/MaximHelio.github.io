@@ -15,7 +15,7 @@ Education
 * B.S. Chemistry and Nanoscience, Ewha Womans Universiy
   * Summa Cum Laude
   * Dean's List for 6 semesters
-  * Full tuition and stipend for top-tier CSAT scorers
+  * Full tuition and stipend for admission
 
 Work Experience
 ======
@@ -56,11 +56,14 @@ Certifications & Honors
 * **Top Employee Award, Shinhan Financial Group Corporation Ltd 2022**
   * Selected as an outstanding performer in recognition of software delivery performance.
 
-* **SQLD (Sequential Query Language Developer), Korea Data Agency 2022.09.**
+* **SQLD (Structured Query Language Developer), Korea Data Agency 2022.09.**
   * Passed national certification exam focused on relational database theory and SQL optimization.
 
 * **Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea) 2022.06.**
   * National technical license covering software development, system analysis, and data processing principles.
+
+* **Samsung Software Aptitude Test (SSAT) A, Samsung Electronics 2021.04.**
+  * Software Algorithm coding test
 
 * **Samsung Software Academy for Youth (SSAFY), Samsung Electronics 2021.01.–2021.06.**
   * Completed a full-time software engineering program funded by Samsung Electronics.
