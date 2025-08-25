@@ -62,7 +62,7 @@ Certifications & Honors
 * **Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea) 2022.06.**
   * National technical license covering software development, system analysis, and data processing principles.
 
-* **Samsung Software Aptitude Test (SSAT) A, Samsung Electronics 2021.04.**
+* **Samsung Software Algorithm Coding Test A, Samsung Electronics 2021.04.**
   * Software Algorithm coding test
 
 * **Samsung Software Academy for Youth (SSAFY), Samsung Electronics 2021.01.–2021.06.**
