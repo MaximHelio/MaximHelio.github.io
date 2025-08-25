@@ -11,11 +11,10 @@ I'm originally from Gwangju, South Korea. After majoring in Chemistry, Nanoscien
 I'm currently living in the U.S., where I work and study quantum simulation and machine learning approaches to scientific computing.
 
 In my free time, I enjoy:
-- **Building** : anything from the ground up (e.g., music, food, software)
+- **Building** : anything from the ground up (e.g., food, software, furniture)
 - **Writing** : web novels, blog posts
 
 💌 Email: [hkoh23@wisc.edu](mailto:hkoh23@wisc.edu)  
 
 🧸 [Toy Projects (GitHub)](https://github.com/MaximHelio)  
-📚 [Lecture Materials (GitHub)](https://github.com/hkohoh)  
 💼 [Commercial Projects (GitHub)](https://github.com/gogomaya)

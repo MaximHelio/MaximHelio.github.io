@@ -24,7 +24,7 @@ Work Experience
     * FE: Next.js / BE: Next.js, MySQL.
   * Development of a [Children Education Consulting Web](https://yoonsparenting.com/)
     * FE: Wordpress Design / BE: Node.js
-  * Maintenance of a Twitch-Page
+  * Maintenance of a [Twitch-Page](https://www.twitch.tv/eaglekop)
   * Development of Web-Taggin bot of Samsung.com  
 * **Senior Software Engineer, FE/BE, Samsung Card, S. Korea 2023.01.–2023.07.**
   * MyData Business Construction Development of Samsung Card Networking Mobile Application [Monimo](https://www.monimo.com/w/main/WPFMHP0101M0).
