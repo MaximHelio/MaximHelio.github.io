@@ -15,7 +15,7 @@ Education
 * B.S. Chemistry and Nanoscience, Ewha Womans Universiy, 2021
   * Summa Cum Laude
   * Dean's List for 6 semesters
-  * Full tuition and stipend for admission
+  * Full tuition and stipend provided as a merit award for top-tier CSAT scorers
 
 Work Experience
 ======
