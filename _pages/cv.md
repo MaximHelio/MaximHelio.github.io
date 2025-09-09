@@ -53,9 +53,6 @@ Work Experience
 Credentials & Recognitions
 =======================
 
-* **Top Employee Award, Shinhan Financial Group Corporation Ltd 2022**
-  * Selected as an outstanding performer in recognition of software delivery performance.
-
 * **SQLD (Structured Query Language Developer), Korea Data Agency 2022.09.**
   * Passed national certification exam focused on relational database theory and SQL optimization.
 
@@ -63,7 +60,7 @@ Credentials & Recognitions
   * National technical license covering software development, system analysis, and data processing principles.
 
 * **Samsung Software Algorithm Coding Test A, Samsung Electronics 2021.04.**
-  * Software Algorithm coding test
+  * Software Algorithm coding test A passed
 
 * **Samsung Software Academy for Youth (SSAFY), Samsung Electronics 2021.01.–2021.06.**
   * Completed a full-time software engineering program funded by Samsung Electronics.

@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
   **🧪 portfolio**  
-  📄 You can [download the slide here](/files/pdfs/portfolio.pdf).  
+  📄 You can [download the slide here](/files/pdfs/Portfolio.pdf).  
   <iframe src="/files/pdfs/portfolio.pdf" width="100%" height="600px" style="border: none;"></iframe>
