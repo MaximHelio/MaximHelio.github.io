@@ -27,7 +27,7 @@ redirect_from:
   * Advisor: Prof. Xuhui Huang  
   **🧪 MSM Review**  
   📄 You can [download the slide here](/files/pdfs/MSM.pdf).  
-  <iframe src="/files/pdfs/MSM_rev.pdf" width="100%" height="600px" style="border: none;"></iframe>
+  <iframe src="/files/pdfs/MSM.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 * **Undergraduate Intern, Ewha Womans University – Physical Chemistry Lab  2020.10.–2020.12.**
   * Advisor: Prof. Myunghwa Kim  
