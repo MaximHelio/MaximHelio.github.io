@@ -10,9 +10,9 @@ redirect_from:
 I’m originally from [Gwangju](https://en.wikipedia.org/wiki/Gwangju), South Korea. After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a software developer for three years. I’m in the U.S., where I study and work on classical–quantum simulation and machine learning approaches to scientific computing Outside of research, I'm interested in aerospace industry.
 
 In my free time, I enjoy:
-- **Building** : anything from the ground up (e.g., food, furniture, bot)
+- **Building** : anything from the ground up (e.g., food, furniture, web/app)
 - **Writing** : web novels, blog posts
-- **Reading** : classical literature from China and Japan (e.g. Strange Tales from a Chinese Studio(聊齋志異), Dream of the Red Chamber(紅樓夢), Rashōmon(羅生門))
+- **Reading** : classical literature from China and Japan (e.g. 聊齋志異, 紅樓夢, 羅生門)
 
 
 💌 Email: [hkoh23@wisc.edu](mailto:h.koh@wisc.edu)  
