@@ -26,7 +26,7 @@ redirect_from:
 * **Lab Rotation Project, UW–Madison, Department of Chemistry – *Huang Group*  2024.10.–2025.11.**  
   * Advisor: Prof. Xuhui Huang  
   **🧪 MSM Review**  
-  📄 You can [download the slide here](/files/pdfs/MSM_rev.pdf).  
+  📄 You can [download the slide here](/files/pdfs/MSM.pdf).  
   <iframe src="/files/pdfs/MSM_rev.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 * **Undergraduate Intern, Ewha Womans University – Physical Chemistry Lab  2020.10.–2020.12.**
