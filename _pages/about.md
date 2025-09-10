@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m originally from [Gwangju](https://en.wikipedia.org/wiki/Gwangju), South Korea. After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a software developer for three years. I’m in the U.S., where I study and work on classical–quantum simulation and machine learning approaches to scientific computing Outside of research, I'm interested in aerospace industry.
+I’m originally from [Gwangju](https://en.wikipedia.org/wiki/Gwangju), South Korea. After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a software developer for three years. Now, I’m in the U.S., where I study and work on classical–quantum simulation and machine learning approaches to scientific computing Outside of research, I'm interested in aerospace industry.
 
 In my free time, I enjoy:
 - **Building** : anything from the ground up (e.g., food, furniture, web/app)
