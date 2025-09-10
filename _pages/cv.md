@@ -59,9 +59,6 @@ Credentials & Recognitions
 * **Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea) 2022.06.**
   * National technical license covering software development, system analysis, and data processing principles.
 
-* **Samsung Software Algorithm Coding Test A, Samsung Electronics 2021.04.**
-  * Software Algorithm coding test A passed
-
 * **Samsung Software Academy for Youth (SSAFY), Samsung Electronics 2021.01.–2021.06.**
-  * Completed a full-time software engineering program funded by Samsung Electronics.
+  * Completed a full-time software development program funded by Samsung Electronics.
   * Focused on Python, algorithm optimization, and web project deployment.

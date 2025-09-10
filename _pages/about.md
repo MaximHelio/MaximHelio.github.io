@@ -7,14 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I'm originally from Gwangju, South Korea. After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a software developer for three years.
-I'm currently living in the U.S., where I work and study classical quantum simulation and machine learning approaches to scientific computing. Outside of research, I’m interested in aerospace studies. My life motto, (though I don’t always put it into practice), is “Do it right now.”
+I’m originally from [Gwangju](https://en.wikipedia.org/wiki/Gwangju), South Korea. After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a software developer for three years. I’m in the U.S., where I study and work on classical–quantum simulation and machine learning approaches to scientific computing.  
+
+Outside of research, I'm interested in aerospace industry.
+
 
 In my free time, I enjoy:
 - **Building** : anything from the ground up (e.g., food, furniture, bot)
 - **Writing** : web novels, blog posts
+- **Reading** : reading classical literature from China and Japan (e.g. Strange Tales from a Chinese Studio(聊齋志異), Dream of the Red Chamber(紅樓夢), Rashōmon(羅生門))
 
-💌 Email: [hkoh23@wisc.edu](mailto:hkoh23@wisc.edu)  
+
+💌 Email: [hkoh23@wisc.edu](mailto:h.koh@wisc.edu)  
 
 🧸 [Toy Projects (GitHub)](https://github.com/MaximHelio)  
 💼 [Commercial Projects (GitHub)](https://github.com/gogomaya)
