@@ -17,5 +17,11 @@ In my free time, I enjoy:
 
 💌 Email: [hkoh23@wisc.edu](mailto:h.koh@wisc.edu)  
 
-🧸 [Toy Projects (GitHub)](https://github.com/MaximHelio)  
-💼 [Commercial Projects (GitHub)](https://github.com/gogomaya)
+## 📂 Projects & Notes
+
+- 🧸 **[Toy Projects](https://github.com/MaximHelio)**  
+  Small-scale, experimental, and fun coding projects.
+- 💼 **[Commercial Projects](https://github.com/gogomaya)**  
+  Professional and business-oriented repositories.
+- 📖 **[Lecture Notes](https://github.com/MaximHelio/Curriculae)**  
+  Organized notes and study materials for various lectures.
