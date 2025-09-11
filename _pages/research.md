@@ -14,7 +14,7 @@ redirect_from:
 * **Research Assistant, UW–Madison, Department of Physics – Matt Otten's Group  2025.06.- current**
   * Advisor: Prof. Matthew Otten  
     * Semi-stochastic Heat bath Configuration Interaction 
-    ** manuscript:
+      ** manuscript: soon
 
 * **Course Project, UW–Madison, Department of Electrical & Computer Engineering - UW-Madison  2025.04.–2025.05.**  
   * Final project in CS 761 (Mathematics for Machine Learning)  

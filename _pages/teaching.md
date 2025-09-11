@@ -17,5 +17,5 @@ redirect_from:
 - External Lecturer / Outsourcing
   - 🔗 [Service Profile](https://soomgo.com/profile/users/12391091?from=my_info_preview)  
   - 📖 [Lecture Notes](https://github.com/MaximHelio/Curriculae)
-- **College of Mathematics, Science and Chemistry Education Affiliate** – Ewha Womans University (2015-2018)  
+- **College of Mathematics, Science Education Affiliate** – Ewha Womans University (2015-2018)  
 - **Donghang** – Volunteer Instructor (Mathematics/Physics/Chemistry), Myungduk high school (2016-2018)
