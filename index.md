@@ -6,15 +6,13 @@ layout: homepage
 I’m originally from [**Gwangju, South Korea**](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](https://www.linkedin.com/in/haejung-koh/) for three years.  
 Currently, I am based in the **U.S.**, where I focus on advancing classical–quantum simulation and introducing machine learning approaches for scientific computing.  
 Beyond research, I'm really into the Aerospace industry ✈️ (but not quite upto Cosmology).  
-My life motto is: *"Quantity leads to quality."* 
+My life motto is *Quantity leads to quality.*
 In my free time, I enjoy:
+- **Building** — anything from the ground up (food, furniture, clone coding of websites)  
+- **Writing** — blog posts and web novels  
+- **Reading** — classical literature from China and Japan (e.g. 聊齋志異, 紅樓夢, 羅生門)
 
-- **🔨 Building** — anything from the ground up (food, furniture, clone coding of websites)  
-- **✍️ Writing** — blog posts and web novels  
-- **📚 Reading** — classical literature from China and Japan (e.g. 聊齋志異, 紅樓夢, 羅生門)
-
-## Education
-======
+## 🎓 Education
 * Ph.D Physical Chemistry, University of Wisconsin-Madison, 2029 (Expected)
 * B.S. Chemistry and Nanoscience, Ewha Womans Universiy, 2021
   * Summa Cum Laude
@@ -26,7 +24,6 @@ In my free time, I enjoy:
   * Advisor: Prof. Matthew Otten  
     * Semi-stochastic Heat bath Configuration Interaction 
       ** manuscript: soon
-
 * **Course Project, UW–Madison, Department of Electrical & Computer Engineering - UW-Madison  2025.04.–2025.05.**  
   * Final project in CS 761 (Mathematics for Machine Learning)
   * Advisor: Prof. Grigorios Chrysos  
@@ -36,17 +33,14 @@ In my free time, I enjoy:
     * Conducted Density Functional Theory (DFT) calculations using VASP to investigate electrocatalytic reaction mechanisms on Cu and Pt surfaces.
     * Studied adsorption behaviors of benzene (Bz) and hydrogen, including associated surface energetics.
     * Trained the Nudged Elastic Band (NEB) method to determine reaction pathways and energy barriers for the Oxygen Reduction Reaction (ORR).
-
 * **Lab Rotation, UW–Madison, Department of Chemistry – *Huang Group*  2024.10.–2025.11.**  
   * Advisor: Prof. Xuhui Huang  
   **MSM Review**[[Slides](./assets/MSM.pdf)]  
-
 * **Undergrad Intern, Ewha Womans University – Physical Chemistry Lab  2020.10.–2020.12.**
   * Advisor: Prof. Myunghwa Kim  
   * Reviewed J.J. Schwartz et al., *Nature Communications* 2019, 10:791 as part of graduation thesis.  
   * Studied multi-wavelength 3D printing for spatially controlled multi-material fabrication.  
   * Investigated photoresins for light-based additive manufacturing using single-laser rastering and DLP methods.
-
 * **Undergrad Intern, Gwangju Institute of Science and Technology (GIST) – Femtosecond Spectroscopy Lab  Summer, 2019.**
   * Advisor: Prof. Yoonsoo Pang  
   **MEF** [[Slides](./assets/MEF_THEORY.pdf)]
@@ -58,8 +52,7 @@ In my free time, I enjoy:
   * Developed atomistic molecular dynamics (MD) simulations in Fortran to study PNIPAM polymer solubility and conformation.  
   * Investigated thermo-responsive volume phase transitions and equilibrium properties of NxN polymer networks in aqueous environments.
 
-## Work Experience
-======
+## 👷‍♀️ Work Experience
 [portfolio](./assets/Portfolio.pdf)
 * **Freelancer 2023.07.–2024.08.**
   * Development of a [Wholesale butcher shop](https://hansolmeat.shop/)
@@ -91,14 +84,11 @@ In my free time, I enjoy:
     * Created an internal API Using java Spring Boot and private API Using the FastAPI framework.
     * Developed anti-scraping bot (Node.js) products.
 
-Credentials & Recognitions
-=======================
+## 🎖 Credentials & Recognitions
 * **SQLD (Structured Query Language Developer), Korea Data Agency 2022.09.**
   * Passed national certification exam focused on relational database theory and SQL optimization.
-
 * **Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea) 2022.06.**
   * National technical license covering software development, system analysis, and data processing principles.
-
 * **Samsung Software Academy for Youth (SSAFY), Samsung Electronics 2021.01.–2021.06.**
   * Completed a full-time software development program funded by Samsung Electronics.
   * Focused on Python, algorithm optimization, and web project deployment.
