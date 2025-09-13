@@ -37,7 +37,7 @@ In my free time, I enjoy:
   [**MSM Review**](./assets/MSM.pdf)
 * **Undergrad Intern, Ewha Womans University 2020.10.–2020.12.**
   * Advisor: Prof. Myunghwa Kim  
-  * Reviewed [J.J. Schwartz et al., *Nature Communications* 2019, 10:791](https://www.nature.com/articles/s41467-019-08639-7) as part of graduation thesis.  
+  * Reviewed [J.J. Schwartz et al., Nature Communications](https://www.nature.com/articles/s41467-019-08639-7) as part of graduation thesis.  
 * **Undergrad Intern, Gwangju Institute of Science and Technology (GIST) Summer, 2019.**
   * Advisor: Prof. Yoonsoo Pang  
   [**MEF**](./assets/MEF_THEORY.pdf)
@@ -77,9 +77,9 @@ In my free time, I enjoy:
     * Developed anti-scraping bot (Node.js) products.
 
 ## 🎖 Credentials & Recognitions
-* [**SQLD (Structured Query Language Developer), Korea Data Agency 2022.09.**](https://en.wikipedia.org/wiki/Oracle_SQL_Developer)
-* **Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea) 2022.06.**
-* [**Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics**](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)
+* [SQLD (Structured Query Language Developer), Korea Data Agency 2022.09.](https://en.wikipedia.org/wiki/Oracle_SQL_Developer)
+* Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea) 2022.06.
+* [Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)
 
 ## 🧑‍🏫 Teaching Experience
 - **Chem 103** – General Chemistry I (Spring 2025)  
