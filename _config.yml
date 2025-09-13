@@ -6,8 +6,8 @@ keywords: minimal academic
 google_scholar: https://scholar.google.com/
 github_link: https://github.com/MaximHelio
 linkedin: https://www.linkedin.com/in/haejung-koh/
-avatar: ./assets/img/tkn.jpeg
-favicon: ./assets/img/tkn.jpeg
+avatar: ./assets/img/profile.png
+favicon: ./assets/img/profile.png
 favicon_dark: ./assets/img/tkn.jpeg
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://github.com/MaximHelio
