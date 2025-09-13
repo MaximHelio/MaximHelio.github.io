@@ -47,8 +47,8 @@ In my free time, I enjoy:
   * Investigated thermo-responsive volume phase transitions and equilibrium properties of NxN polymer networks in aqueous environments.
 
 ## 👷‍♀️ Work Experience
-[portfolio](./assets/Portfolio.pdf)
-[CV](https://www.linkedin.com/in/haejung-koh/)
+- [portfolio](./assets/Portfolio.pdf)
+- [CV](https://www.linkedin.com/in/haejung-koh/)
 
 ## 🎖 Credentials & Recognitions
 * [SQLD (Structured Query Language Developer), Korea Data Agency](https://en.wikipedia.org/wiki/Oracle_SQL_Developer)
