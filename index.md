@@ -48,33 +48,7 @@ In my free time, I enjoy:
 
 ## 👷‍♀️ Work Experience
 [portfolio](./assets/Portfolio.pdf)
-* **Freelancer 2023.07.–2024.08.**
-  * Development of a [Wholesale butcher shop](https://hansolmeat.shop/)
-  * Development of a [Children Education Consulting Web](https://yoonsparenting.com/)
-  * Maintenance of a [Twitch-Page](https://www.twitch.tv/eaglekop)
-  * Development of Web-Taggin bot of Samsung.com  
-* **Senior Software Engineer, FE/BE, Samsung Card, S. Korea 2023.01.–2023.07.**
-  * MyData Business Construction Development of Samsung Card Networking Mobile Application [Monimo](https://www.monimo.com/w/main/WPFMHP0101M0).
-    * Developed functions and screens in parts of Consumption, Point-money, Pensions, Insurance.
-    * Developed an error defense logic for easily tracking uncertain data when data unlike the actual reference come in.
-    * Applied the build method, Vite to enhance the velocity of build.
-    * Used web-app Method, development approach where mobile app’s user interface and function are built using web tech.
-    * FE: Vue.js, nuxt.js / BE: SpringBoot2.x, Mybatis, Oracle, SQL.
-* **Junior Software Engineer, FE/BE/DB, Shinhan Financial Group Corporation Ltd 2022.03.–2022.12.**
-  * Cambodia's BPR(Business Process Reengineering) system Project
-    * Digitalized the function of previous analogue delivery process of valuable documents for loans through the branches.
-    * Designed a screen for preventing non-authoritative document scanning.
-    * Maintenance of India's Important Property Documents Scan System
-  * Maintained the scan system of important property documents for loans in India Mumbai branch.
-  * Shift of Flex Screen to Html5 Project across the country
-    * Changed screens written in flex into html5/css/actionscript for Vietnam and Mexico branches
-    * FE: html5, actionscript / BE: C, Oracle, SQL
-* **Junior Software Engineer, FE, Sandslab Co., Ltd, S. Korea 2021.09.–2022.01.**
-  * Company Solutions Home Page [malwares.com](https://www.ctx.io/) Renewal Project
-    * Published basic web functions.
-    * Linked a payment system using the external API, toss payments.
-    * Created an internal API Using java Spring Boot and private API Using the FastAPI framework.
-    * Developed anti-scraping bot (Node.js) products.
+[CV](https://www.linkedin.com/in/haejung-koh/)
 
 ## 🎖 Credentials & Recognitions
 * [SQLD (Structured Query Language Developer), Korea Data Agency](https://en.wikipedia.org/wiki/Oracle_SQL_Developer)
