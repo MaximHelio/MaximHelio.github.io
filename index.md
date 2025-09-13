@@ -79,13 +79,9 @@ In my free time, I enjoy:
     * Developed anti-scraping bot (Node.js) products.
 
 ## 🎖 Credentials & Recognitions
-* **SQLD (Structured Query Language Developer), Korea Data Agency 2022.09.**
-  * Passed national certification exam focused on relational database theory and SQL optimization.
+* [**SQLD (Structured Query Language Developer), Korea Data Agency 2022.09.**](https://en.wikipedia.org/wiki/Oracle_SQL_Developer)
 * **Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea) 2022.06.**
-  * National technical license covering software development, system analysis, and data processing principles.
-* **Samsung Software Academy for Youth (SSAFY), Samsung Electronics 2021.01.–2021.06.**
-  * Completed a full-time software development program funded by Samsung Electronics.
-  * Focused on Python, algorithm optimization, and web project deployment.
+* [**Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics**](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)
 
 ## 🧑‍🏫 Teaching Experience
 - **Chem 103** – General Chemistry I (Spring 2025)  
