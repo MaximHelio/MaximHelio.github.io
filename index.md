@@ -37,15 +37,10 @@ In my free time, I enjoy:
   **MSM Review**[[Slides](./assets/MSM.pdf)]  
 * **Undergrad Intern, Ewha Womans University 2020.10.–2020.12.**
   * Advisor: Prof. Myunghwa Kim  
-  * Reviewed J.J. Schwartz et al., *Nature Communications* 2019, 10:791 as part of graduation thesis.  
-  * Studied multi-wavelength 3D printing for spatially controlled multi-material fabrication.  
-  * Investigated photoresins for light-based additive manufacturing using single-laser rastering and DLP methods.
+  * Reviewed [J.J. Schwartz et al., *Nature Communications* 2019, 10:791](https://www.nature.com/articles/s41467-019-08639-7) as part of graduation thesis.  
 * **Undergrad Intern, Gwangju Institute of Science and Technology (GIST) Summer, 2019.**
   * Advisor: Prof. Yoonsoo Pang  
   **MEF** [[Slides](./assets/MEF_THEORY.pdf)]
-  * Synthesized Ag nanoparticles with size control and fabricated polymer films containing dispersed Ag nanoparticles.  
-  * Studied Metal-Enhanced Fluorescence (MEF) using DCM and C343 dyes; analyzed quantum yield enhancement (2.54x, 2.67x).  
-  * Delivered an oral presentation at the GIST internship program.
 * **Undergrad Intern, Ewha Womans University 2018.09.–2019.04.**
   * Advisor: Prof. Jun Soo Kim  
   * Developed atomistic molecular dynamics (MD) simulations in Fortran to study PNIPAM polymer solubility and conformation.  
