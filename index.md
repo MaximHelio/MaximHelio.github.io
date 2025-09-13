@@ -21,16 +21,16 @@ In my free time, I enjoy:
 ## 📚 Research Experience
 * **Research Assistant, UW–Madison, Department of Physics 2025.06.- current**
   * Advisor: Prof. Matthew Otten  
-    * Semi-stochastic Heat bath Configuration Interaction 
-      ** manuscript: soon
+  * Semi-stochastic Heat bath Configuration Interaction 
+    * manuscript: soon
 * **Course Project, UW–Madison, Department of Electrical & Computer Engineering 2025.04.–2025.05.**  
   * Final project in CS 761 (Mathematics for Machine Learning)
   * Advisor: Prof. Grigorios Chrysos  
   [Partial Differential Equations in RKHS](./assets/PDE_RKHS.pdf)
 * **Research Assistant, UW–Madison, Department of Chemistry 2024.12.–2025.05.**
   * Advisor: Prof. J.R. Schmidt  
-    * Conducted Density Functional Theory (DFT) calculations using VASP to investigate electrocatalytic reaction mechanisms on Cu and Pt surfaces.
-    * Studied adsorption behaviors of benzene (Bz) and hydrogen, and the Nudged Elastic Band (NEB) method to determine reaction pathways and energy barriers for the Oxygen Reduction Reaction (ORR).
+  * Conducted Density Functional Theory (DFT) calculations using VASP to investigate electrocatalytic reaction mechanisms on Cu and Pt surfaces.
+  * Studied adsorption behaviors of benzene (Bz) and hydrogen, and the Nudged Elastic Band (NEB) method to determine reaction pathways and energy barriers for the Oxygen Reduction Reaction (ORR).
 * **Lab Rotation, UW–Madison, Department of Chemistry 2024.10.–2025.11.**  
   * Advisor: Prof. Xuhui Huang  
   [Markove State Model REVIEW](./assets/MSM.pdf)
@@ -44,17 +44,21 @@ In my free time, I enjoy:
   * Advisor: Prof. Jun Soo Kim  
   * Developed atomistic molecular dynamics (MD) simulations in Fortran to study PNIPAM polymer solubility and conformation.  
   * Investigated thermo-responsive volume phase transitions and equilibrium properties of NxN polymer networks in aqueous environments.
+
 ## 👷‍♀️ Work Experience
 - [portfolio](./assets/Portfolio.pdf)
 - [CV](https://www.linkedin.com/in/haejung-koh/)
+
 ## 📂 Projects & Notes
 - [Toy Projects](https://github.com/MaximHelio)
 - [Commercial Projects](https://github.com/gogomaya)
 - [Lecture Notes](https://github.com/MaximHelio/Curriculae)
+
 ## 🎖 Credentials & Recognitions
 * [SQLD (Structured Query Language Developer), Korea Data Agency](https://en.wikipedia.org/wiki/Oracle_SQL_Developer)
 * Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea)
 * [Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)
+
 ## 🧑‍🏫 Teaching Experience
 - **Chem 103** – General Chemistry I (Spring 2025)  
 - **Chem 109** – Advanced General Chemistry (Fall 2024)  
