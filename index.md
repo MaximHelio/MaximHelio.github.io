@@ -49,11 +49,6 @@ In my free time, I enjoy:
 - [portfolio](./assets/Portfolio.pdf)
 - [CV](https://www.linkedin.com/in/haejung-koh/)
 
-## 📂 Projects & Notes
-- [Toy Projects](https://github.com/MaximHelio)
-- [Commercial Projects](https://github.com/gogomaya)
-- [Lecture Notes](https://github.com/MaximHelio/Curriculae)
-
 ## 🎖 Credentials & Recognitions
 * [SQLD (Structured Query Language Developer), Korea Data Agency](https://en.wikipedia.org/wiki/Oracle_SQL_Developer)
 * Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea)
@@ -68,4 +63,7 @@ In my free time, I enjoy:
 - **College of Mathematics, Science Education Affiliate** – Ewha Womans University (2015-2018)  
 - [Donghang](https://www.donghaeng.seoul.kr/main.do) – Volunteer Instructor (Mathematics/Physics/Chemistry), Myungduk, Seonyoo high school (2016-2018)
 
-
+## 📂 Repository
+- [Toy Projects](https://github.com/MaximHelio)
+- [Commercial Projects](https://github.com/gogomaya)
+- [Lecture Notes](https://github.com/MaximHelio/Curriculae)
