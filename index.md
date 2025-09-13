@@ -3,7 +3,7 @@ layout: homepage
 ---
 ## 👋 Introduction
 
-I’m originally from [**Gwangju, South Korea**](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](https://www.linkedin.com/in/haejung-koh/) for three years.  
+I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](https://www.linkedin.com/in/haejung-koh/) for three years.  
 Currently, I am based in the **U.S.**, where I focus on enhancing the classical simulation and introducing machine learning approaches for scientific computing.  
 Beyond research, I'm really into the Aerospace industry ✈️ (but not quite upto Cosmology).  
 My life motto is *Quantity leads to quality.*
