@@ -26,7 +26,7 @@ In my free time, I enjoy:
 * **Course Project, UW–Madison, Department of Electrical & Computer Engineering - UW-Madison  2025.04.–2025.05.**  
   * Final project in CS 761 (Mathematics for Machine Learning)
   * Advisor: Prof. Grigorios Chrysos  
-  **PDE_RKHS**[[Slides](./assets/PDE_RKHS.pdf)]
+  [**PDE_RKHS**](./assets/PDE_RKHS.pdf)
 * **Research Assistant, UW–Madison, Department of Chemistry 2024.12.–2025.05.**
   * Advisor: Prof. J.R. Schmidt  
     * Conducted Density Functional Theory (DFT) calculations using VASP to investigate electrocatalytic reaction mechanisms on Cu and Pt surfaces.
@@ -34,13 +34,13 @@ In my free time, I enjoy:
     * Trained the Nudged Elastic Band (NEB) method to determine reaction pathways and energy barriers for the Oxygen Reduction Reaction (ORR).
 * **Lab Rotation, UW–Madison, Department of Chemistry 2024.10.–2025.11.**  
   * Advisor: Prof. Xuhui Huang  
-  **MSM Review**[[Slides](./assets/MSM.pdf)]  
+  [**MSM Review**](./assets/MSM.pdf)
 * **Undergrad Intern, Ewha Womans University 2020.10.–2020.12.**
   * Advisor: Prof. Myunghwa Kim  
   * Reviewed [J.J. Schwartz et al., *Nature Communications* 2019, 10:791](https://www.nature.com/articles/s41467-019-08639-7) as part of graduation thesis.  
 * **Undergrad Intern, Gwangju Institute of Science and Technology (GIST) Summer, 2019.**
   * Advisor: Prof. Yoonsoo Pang  
-  **MEF** [[Slides](./assets/MEF_THEORY.pdf)]
+  [**MEF**](./assets/MEF_THEORY.pdf)
 * **Undergrad Intern, Ewha Womans University 2018.09.–2019.04.**
   * Advisor: Prof. Jun Soo Kim  
   * Developed atomistic molecular dynamics (MD) simulations in Fortran to study PNIPAM polymer solubility and conformation.  
@@ -50,9 +50,7 @@ In my free time, I enjoy:
 [portfolio](./assets/Portfolio.pdf)
 * **Freelancer 2023.07.–2024.08.**
   * Development of a [Wholesale butcher shop](https://hansolmeat.shop/)
-    * FE: Next.js / BE: Next.js, MySQL.
   * Development of a [Children Education Consulting Web](https://yoonsparenting.com/)
-    * FE: Wordpress Design / BE: Node.js
   * Maintenance of a [Twitch-Page](https://www.twitch.tv/eaglekop)
   * Development of Web-Taggin bot of Samsung.com  
 * **Senior Software Engineer, FE/BE, Samsung Card, S. Korea 2023.01.–2023.07.**
