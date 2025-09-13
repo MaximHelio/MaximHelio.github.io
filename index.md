@@ -9,7 +9,6 @@ Beyond research, I'm really into the Aerospace industry ✈️ (but not quite up
 My life motto is *Quantity leads to quality.*
 In my free time, I enjoy:
 - **Building** — anything from the ground up (food, furniture, clone coding of websites)  
-- **Writing** — blog posts and web novels  
 - **Reading** — classical literature from China and Japan (e.g. 聊齋志異, 紅樓夢, 羅生門)
 
 ## 🎓 Education
