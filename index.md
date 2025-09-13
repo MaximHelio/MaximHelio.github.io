@@ -12,8 +12,8 @@ In my free time, I enjoy:
 - **Reading** — classical literature from China and Japan (e.g. 聊齋志異, 紅樓夢, 羅生門)
 
 ## 🎓 Education
-* Ph.D Physical Chemistry, University of Wisconsin-Madison, 2029 (Expected)
-* B.S. Chemistry and Nanoscience, Ewha Womans Universiy, 2021
+* Ph.D [Physical Chemistry, University of Wisconsin-Madison](https://chem.wisc.edu/theoretical-computational/), 2029 (Expected)
+* B.S. [Chemistry and Nanoscience, Ewha Womans Universiy](https://myr.ewha.ac.kr/engchem/index.do), 2021
   * Summa Cum Laude
   * Dean's List for 6 semesters
   * Awarded full tuition and stipend upon admission
