@@ -26,20 +26,20 @@ In my free time, I enjoy:
 * **Course Project, UW–Madison, Department of Electrical & Computer Engineering 2025.04.–2025.05.**  
   * Final project in CS 761 (Mathematics for Machine Learning)
   * Advisor: Prof. Grigorios Chrysos  
-  [PDE_RKHS](./assets/PDE_RKHS.pdf)
+  [Partial Differential Equations in RKHS](./assets/PDE_RKHS.pdf)
 * **Research Assistant, UW–Madison, Department of Chemistry 2024.12.–2025.05.**
   * Advisor: Prof. J.R. Schmidt  
     * Conducted Density Functional Theory (DFT) calculations using VASP to investigate electrocatalytic reaction mechanisms on Cu and Pt surfaces.
     * Studied adsorption behaviors of benzene (Bz) and hydrogen, and the Nudged Elastic Band (NEB) method to determine reaction pathways and energy barriers for the Oxygen Reduction Reaction (ORR).
 * **Lab Rotation, UW–Madison, Department of Chemistry 2024.10.–2025.11.**  
   * Advisor: Prof. Xuhui Huang  
-  [MSM Review](./assets/MSM.pdf)
+  [Markove State Model REVIEW](./assets/MSM.pdf)
 * **Undergrad Intern, Ewha Womans University 2020.10.–2020.12.**
   * Advisor: Prof. Myunghwa Kim  
   * Reviewed [J.J. Schwartz et al., Nature Communications](https://www.nature.com/articles/s41467-019-08639-7) as part of graduation thesis.  
 * **Undergrad Intern, Gwangju Institute of Science and Technology (GIST) Summer, 2019.**
   * Advisor: Prof. Yoonsoo Pang  
-  [MEF](./assets/MEF_THEORY.pdf)
+  [Metal Enhanced Fluorescence](./assets/MEF_THEORY.pdf)
 * **Undergrad Intern, Ewha Womans University 2018.09.–2019.04.**
   * Advisor: Prof. Jun Soo Kim  
   * Developed atomistic molecular dynamics (MD) simulations in Fortran to study PNIPAM polymer solubility and conformation.  
