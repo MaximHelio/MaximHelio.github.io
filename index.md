@@ -4,7 +4,7 @@ layout: homepage
 ## 👋 Introduction
 
 I’m originally from [**Gwangju, South Korea**](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](https://www.linkedin.com/in/haejung-koh/) for three years.  
-Currently, I am based in the **U.S.**, where I focus on advancing classical–quantum simulation and introducing machine learning approaches for scientific computing.  
+Currently, I am based in the **U.S.**, where I focus on enhancing the classical simulation and introducing machine learning approaches for scientific computing.  
 Beyond research, I'm really into the Aerospace industry ✈️ (but not quite upto Cosmology).  
 My life motto is *Quantity leads to quality.*
 In my free time, I enjoy:
@@ -77,8 +77,8 @@ In my free time, I enjoy:
     * Developed anti-scraping bot (Node.js) products.
 
 ## 🎖 Credentials & Recognitions
-* [SQLD (Structured Query Language Developer), Korea Data Agency 2022.09.](https://en.wikipedia.org/wiki/Oracle_SQL_Developer)
-* Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea) 2022.06.
+* [SQLD (Structured Query Language Developer), Korea Data Agency](https://en.wikipedia.org/wiki/Oracle_SQL_Developer)
+* Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea)
 * [Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)
 
 ## 🧑‍🏫 Teaching Experience
