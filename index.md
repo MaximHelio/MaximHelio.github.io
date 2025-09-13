@@ -23,7 +23,7 @@ In my free time, I enjoy:
   * Advisor: Prof. Matthew Otten  
     * Semi-stochastic Heat bath Configuration Interaction 
       ** manuscript: soon
-* **Course Project, UW–Madison, Department of Electrical & Computer Engineering - UW-Madison  2025.04.–2025.05.**  
+* **Course Project, UW–Madison, Department of Electrical & Computer Engineering 2025.04.–2025.05.**  
   * Final project in CS 761 (Mathematics for Machine Learning)
   * Advisor: Prof. Grigorios Chrysos  
   [PDE_RKHS](./assets/PDE_RKHS.pdf)
