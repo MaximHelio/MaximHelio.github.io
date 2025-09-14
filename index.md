@@ -7,7 +7,7 @@ I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwang
 I moved to the U.S. largely to support my partner and began a Ph.D. a bit tentatively; but luckily and happily, I have since become deeply committed to and energized by the research.\\
 My life mottos are *Quantity leads to quality*.\\
 In my free time, I enjoy:
-- **Building** — end-to-end projects (e.g. furniture, food, automation tools for my real purposes—grading/translation;).
+- **Building** — end-to-end projects (e.g. furniture, food, automation tools for my real purposes)
 - **Reading** — (classical) literatures from China and Japan (e.g. 三體, 聊齋志異, 紅樓夢, 羅生門)
 
 ## Education
