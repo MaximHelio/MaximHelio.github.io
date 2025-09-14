@@ -52,7 +52,3 @@ In my free time, I enjoy:
 * SQLD (Structured Query Language Developer), Korea Data Agency
 * Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea)
 * [Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)
-
-## Repository
-- [Toy Projects](https://github.com/MaximHelio)
-- [Commercial Projects](https://github.com/gogomaya)
