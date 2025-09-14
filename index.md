@@ -16,7 +16,7 @@ In my free time, I enjoy:
 * B.S. [Chemistry and Nanoscience, Ewha Womans Universiy](https://myr.ewha.ac.kr/engchem/index.do), 2021
   * Summa Cum Laude
   * Dean's List for 6 semesters
-  * Awarded full tuition and stipend upon admission
+  * Awarded full-year full-tuition waiver upon admission
 
 ## 📚 Research Experience
 - Research Assistant, UW–Madison, Department of Physics, 2025.06.- current
