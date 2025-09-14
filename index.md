@@ -35,7 +35,7 @@ In my free time, I enjoy:
   [Markove State Model REVIEW](./assets/MSM.pdf)
 - Undergrad Intern, Ewha Womans University 2020.10.–2020.12.
   - Advisor: Prof. Myunghwa Kim  
-  - Reviewed [J.J. Schwartz et al., Nature Communications](https://www.nature.com/articles/s41467-019-08639-7) as part of graduation thesis.  
+  - Reviewed [J.J. Schwartz et al.](https://www.nature.com/articles/s41467-019-08639-7) as part of graduation thesis.  
 - Undergrad Intern, Gwangju Institute of Science and Technology (GIST) Summer, 2019.
   - Advisor: Prof. Yoonsoo Pang  
   [Metal Enhanced Fluorescence](./assets/MEF_THEORY.pdf)
