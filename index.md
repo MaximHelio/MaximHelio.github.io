@@ -4,7 +4,7 @@ layout: homepage
 ## 👋 Introduction
 
 I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years.  
-I moved to the U.S. at my partner’s urging and started a Ph.D. somewhat tentatively; luckily and happily, I’m increasingly captivated by the research itself.\\
+I moved to the U.S. mainly due to my partner and started a Ph.D. somewhat tentatively; luckily and happily, I’m increasingly captivated by the research itself.\\
 Beyond research, I'm really into the Aerospace industry ✈️ (but not quite up to Cosmology).  
 My life mottos are *Quantity leads to quality* and *Fake it till you make it*, as my respected professor, [Micheline](https://scholar.google.com/citations?user=I18VXOEAAAAJ&hl=en), reminded me again.\\
 In my free time, I enjoy:
