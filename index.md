@@ -20,17 +20,17 @@ In my free time, I enjoy:
 
 ## 📚 Research Experience
 - Research Assistant, UW–Madison, Department of Physics, 2025.06.- current
-  - Advisor: Prof. Matthew Otten  
+  - Advisor: [Prof. Matthew Otten](https://otten.physics.wisc.edu)
   - Semi-stochastic Heat bath Configuration Interaction 
 - Course Project, UW–Madison, Department of Electrical & Computer Engineering, 2025.04.–2025.05.
   - Final project in CS 761 (Mathematics for Machine Learning)
   - Advisor: Prof. Grigorios Chrysos  
   [Partial Differential Equations in RKHS](./assets/PDE_RKHS.pdf)
-- Research Assistant, UW–Madison, Department of Chemistry 2024.12.–2025.05.
+- Research Assistant, UW–Madison, Department of Chemistry, 2024.12.–2025.05.
   - Advisor: Prof. J.R. Schmidt  
   - Conducted Density Functional Theory (DFT) calculations using VASP to investigate electrocatalytic reaction mechanisms on Cu and Pt surfaces.
   - Studied adsorption behaviors of benzene (Bz) and hydrogen, and the Nudged Elastic Band (NEB) method to determine reaction pathways and energy barriers for the Oxygen Reduction Reaction (ORR).
-- Lab Rotation, UW–Madison, Department of Chemistry 2024.10.–2025.11.  
+- Lab Rotation, UW–Madison, Department of Chemistry, 2024.10.–2025.11.  
   - Advisor: Prof. Xuhui Huang  
   [Markove State Model REVIEW](./assets/MSM.pdf)
 - Undergrad Intern, Ewha Womans University 2020.10.–2020.12.
