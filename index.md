@@ -7,7 +7,7 @@ I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwang
 
 My current research interests lie in advancing predictive simulations of molecules and materials by (i) improving scalable electronic-structure methods (HCI, DFT), (ii) developing hybrid quantum–classical surrogate models for chemistry as the most decent applications of quantum computing, and (iii) building reliable excited-state dynamics workflows with quantified uncertainty. Broadly, I am always keen on AI/ML tools including LLMs to accelerate modeling and enhance decision-making within scientific computing.
 
-My life motto is *Inaction is proof of no intention or inability; truth lies in the outcome*.\\
+My life motto is *Inaction is proof of no intention and inability; truth lies in the outcome*.\\
 In my free time, I enjoy:
 - **Building** — end-to-end projects (e.g. furniture, food, automation tools for my real purposes)
 - **Reading** — (classical) literatures from China and Japan (e.g. 三體, 聊齋志異, 紅樓夢, 羅生門)
