@@ -5,7 +5,7 @@ layout: homepage
 
 I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years. I moved to the U.S. partly to be helpful for my partner's dream; but luckily and happily, I've also become deeply committed to and energized by the research.
 
-My current research interests lie in advancing predictive simulations of molecules and materials by (i) improving the accuracy and scalability of classical methods such as HCI, DFT, and DMRG, (ii) developing hybrid quantum–classical operator frameworks to tackle chemistry as one of the most demanding applications of quantum computing, and (iii) constructing robust excited-state dynamics workflows with quantified uncertainty. Broadly, I am always keen on AI/ML methods(including LLMs)to accelerate modeling, automate code generation, and enhance decision-making within scientific workflows.
+My current research interests lie in advancing predictive simulations of molecules and materials by (i) improving the accuracy and scalability of classical methods such as HCI, DFT, and DMRG, (ii) developing hybrid quantum–classical operator frameworks to tackle chemistry as one of the most demanding applications of quantum computing, and (iii) constructing robust excited-state dynamics workflows with quantified uncertainty. Broadly, I am always keen on AI/ML methods (including LLMs) to accelerate modeling, automate code generation, and enhance decision-making within scientific workflows.
 
 My life motto is *Quantity leads to quality*.\\
 In my free time, I enjoy:
