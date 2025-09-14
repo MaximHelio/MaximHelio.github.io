@@ -3,7 +3,7 @@ layout: homepage
 ---
 ## About
 
-I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years. I moved to the U.S. just to be helpful for my partner's dream; but luckily and happily, I have also become deeply committed to and energized by the research.\\
+I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years. I moved to the U.S. just to be helpful for my partner's dream; but luckily and happily, I've also become deeply committed to and energized by the research.
 
 My current research interests lie in advancing predictive molecular and materials simulation by (i) pushing the accuracy and reliability of classical electronic-structure methods, (ii) developing hybrid quantum–classical operator execution for chemistry, and (iii) building excited-state dynamics workflows with quantified uncertainty. Broadly, I am always curious at AI/ML (including LLMs) to accelerate modeling, code, and decision-making in the loop.
 
