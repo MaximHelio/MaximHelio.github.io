@@ -8,7 +8,7 @@ Currently, I am based in the U.S., where I focus on enhancing the classical simu
 Beyond research, I'm really into the Aerospace industry ✈️ (but not quite upto Cosmology).  
 My life motto is *Quantity leads to quality.*
 In my free time, I enjoy:
-- **Building** — anything from the ground up (food, furniture, clone coding of websites)  
+- **Building** — anything from the ground up (e.g. food, furniture, clone coding of websites)  
 - **Reading** — classical literature from China and Japan (e.g. 聊齋志異, 紅樓夢, 羅生門)
 
 ## 🎓 Education
