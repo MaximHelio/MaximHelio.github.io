@@ -3,8 +3,8 @@ layout: homepage
 ---
 ## 👋 Introduction
 
-I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) for three years.  
-Currently, I am based in the U.S., where I focus on enhancing the classical simulation and introducing machine learning approaches for scientific computing.  
+I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul, Korea for three years.  
+I initially relocated to the U.S. at my partner’s urging and began the Ph.D. somewhat tentatively, simply curious whether it was a path I could pursue; happily, I’ve been becoming a lot engaged with the research iteself, now.
 Beyond research, I'm really into the Aerospace industry ✈️ (but not quite upto Cosmology).  
 My life motto is *Quantity leads to quality.*
 In my free time, I enjoy:
