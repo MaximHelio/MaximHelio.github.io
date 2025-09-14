@@ -52,7 +52,7 @@ In my free time, I enjoy:
 - [Donghang](https://www.donghaeng.seoul.kr/main.do) – Volunteer Instructor (Mathematics/Physics/Chemistry), Myungduk, Seonyoo high school (2016-2018)
 
 ## 🎖 Credentials & Recognitions
-* [SQLD (Structured Query Language Developer), Korea Data Agency](https://en.wikipedia.org/wiki/Oracle_SQL_Developer)
+* SQLD (Structured Query Language Developer), Korea Data Agency
 * Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea)
 * [Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)
 
