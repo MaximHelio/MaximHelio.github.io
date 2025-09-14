@@ -5,7 +5,6 @@ layout: homepage
 
 I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years.  
 I moved to the U.S. largely to support my partner and began a Ph.D. a bit tentatively; but luckily and happily, I have since become deeply committed to and energized by the research.\\
-Beyond my research, I'm really into the Aerospace industry ✈️ (but not quite up to Cosmology).  
 My life mottos are *Quantity leads to quality*.\\
 In my free time, I enjoy:
 - **Building** — end-to-end projects (e.g. furniture, food, automation tools for my real purposes—grading/translation;).
