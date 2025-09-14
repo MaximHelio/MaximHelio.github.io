@@ -2,7 +2,10 @@ title: Haejung Koh
 position: PhD student
 affiliation: University of Wisconsin-Madison
 email: h.koh (at) wisc.edu
-language: Korean, English, Chinese/Japanese (read & writing only)
+language: 
+  - Korean
+  - English
+  - Chinese/Japanese (reading & writing only)
 keywords: minimal academic
 google_scholar: https://scholar.google.com/
 github_link: https://github.com/MaximHelio
