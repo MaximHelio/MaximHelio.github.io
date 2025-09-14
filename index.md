@@ -6,7 +6,7 @@ layout: homepage
 I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years.  
 I moved to the U.S. at my partner’s urging and started a Ph.D. somewhat tentatively; luckily and happily, I’ve been gradually engaged with the research itself, now.\\
 Beyond research, I'm really into the Aerospace industry ✈️ (but not quite up to Cosmology).  
-My life motto is *Quantity leads to quality.*
+My life mottos are *Quantity leads to quality.* and *Fake it till you make it*
 In my free time, I enjoy:
 - **Building** — anything from the ground up (e.g. food, furniture, clone coding of websites)  
 - **Reading** — classical literature from China and Japan (e.g. 聊齋志異, 紅樓夢, 羅生門)
