@@ -1,7 +1,7 @@
 ---
 layout: homepage
 ---
-## 👋 Introduction
+## About
 
 I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years.  
 I moved to the U.S. largely for my partner in order to solve the classic two-body problem, and began a Ph.D. a bit tentatively; but luckily and happily, I’ve since become a lot captivated by the research itself.\\
@@ -11,14 +11,14 @@ In my free time, I enjoy:
 - **Building** — end-to-end projects (websites, automation tools, iOS apps; plus food & furniture).
 - **Reading** — (classical) literatures from China and Japan (e.g. 三體, 聊齋志異, 紅樓夢, 羅生門)
 
-## 🎓 Education
+## Education
 * Ph.D. [Physical Chemistry, University of Wisconsin-Madison](https://chem.wisc.edu/theoretical-computational/), 2029 (Expected)
 * B.S. [Chemistry and Nanoscience, Ewha Womans University](https://myr.ewha.ac.kr/engchem/index.do), 2021
   * Summa Cum Laude
   * Dean's List for 6 semesters
   * Awarded full-year full-tuition waiver upon admission
 
-## 📚 Selected Projects
+## Selected Projects
 - Research Assistant, UW–Madison, Department of Physics, *2025.06.- present*
   - Advisor: [Prof. Matthew Otten](https://otten.physics.wisc.edu)
   - Semi-stochastic Heat bath Configuration Interaction method, *manuscript*
@@ -38,22 +38,22 @@ In my free time, I enjoy:
   [Metal Enhanced Fluorescence](./assets/MEF_THEORY.pdf)
 
 
-## 👷‍♀️ Work Experience
+## Work Experience
 - [Portfolio](./assets/Portfolio.pdf)
 - [CV](https://www.linkedin.com/in/haejung-koh/)
 
-## 🧑‍🏫 Teaching Experience
+## Teaching Experience
 - **Chem 103** – General Chemistry I (Spring 2025)  
 - **Chem 109** – Advanced General Chemistry (Fall 2024)  
 - [External Lecturer / Outsourcing](https://soomgo.com/profile/users/12391091?from=my_info_preview)  
 - **College of Mathematics, Science Education Affiliate** – Ewha Womans University (2015-2018)  
 - [Donghang](https://www.donghaeng.seoul.kr/main.do) – Volunteer Instructor (Mathematics/Physics/Chemistry), Myungduk, Seonyoo high school (2016-2018)
 
-## 🎖 Credentials & Recognitions
+## Credentials & Recognitions
 * SQLD (Structured Query Language Developer), Korea Data Agency
 * Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea)
 * [Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)
 
-## 📂 Repository
+## Repository
 - [Toy Projects](https://github.com/MaximHelio)
 - [Commercial Projects](https://github.com/gogomaya)
