@@ -18,7 +18,7 @@ In my free time, I enjoy:
   * Dean's List for 6 semesters
   * Awarded full-year full-tuition waiver upon admission
 
-## Selected Projects
+## Selected Research Projects
 - Research Assistant, UW–Madison, Department of Physics, *2025.06.- present*
   - Advisor: [Prof. Matthew Otten](https://otten.physics.wisc.edu)
   - Semi-stochastic Heat bath Configuration Interaction method, *manuscript*
