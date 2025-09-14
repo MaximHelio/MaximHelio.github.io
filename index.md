@@ -8,7 +8,7 @@ I moved to the U.S. largely for my partner in order to solve the classic two-bod
 Beyond research, I'm really into the Aerospace industry ✈️ (but not quite up to Cosmology).  
 My life mottos are *Quantity leads to quality* and *Fake it till you make it*\\
 In my free time, I enjoy:
-- **Building** — end-to-end projects (e.g. websites, automation tools, iOS apps; food & furniture).
+- **Building** — end-to-end projects (e.g. websites, automation tools for grading and translation; food & furniture).
 - **Reading** — (classical) literatures from China and Japan (e.g. 三體, 聊齋志異, 紅樓夢, 羅生門)
 
 ## Education
