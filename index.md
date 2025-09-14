@@ -48,16 +48,6 @@ In my free time, I enjoy:
 - [portfolio](./assets/Portfolio.pdf)
 - [CV](https://www.linkedin.com/in/haejung-koh/)
 
-## 📂 Repository
-- [Toy Projects](https://github.com/MaximHelio)
-- [Commercial Projects](https://github.com/gogomaya)
-- [Lecture Notes](https://github.com/MaximHelio/Curriculae)
-
-## 🎖 Credentials & Recognitions
-* [SQLD (Structured Query Language Developer), Korea Data Agency](https://en.wikipedia.org/wiki/Oracle_SQL_Developer)
-* Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea)
-* [Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)
-
 ## 🧑‍🏫 Teaching Experience
 - **Chem 103** – General Chemistry I (Spring 2025)  
 - **Chem 109** – Advanced General Chemistry (Fall 2024)  
@@ -66,3 +56,13 @@ In my free time, I enjoy:
   - 📖 [Lecture Notes](https://github.com/MaximHelio/Curriculae)
 - **College of Mathematics, Science Education Affiliate** – Ewha Womans University (2015-2018)  
 - [Donghang](https://www.donghaeng.seoul.kr/main.do) – Volunteer Instructor (Mathematics/Physics/Chemistry), Myungduk, Seonyoo high school (2016-2018)
+
+## 🎖 Credentials & Recognitions
+* [SQLD (Structured Query Language Developer), Korea Data Agency](https://en.wikipedia.org/wiki/Oracle_SQL_Developer)
+* Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea)
+* [Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)
+
+## 📂 Repository
+- [Toy Projects](https://github.com/MaximHelio)
+- [Commercial Projects](https://github.com/gogomaya)
+- [Lecture Notes](https://github.com/MaximHelio/Curriculae)
