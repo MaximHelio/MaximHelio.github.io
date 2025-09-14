@@ -8,8 +8,8 @@ I moved to the U.S. mainly due to my partner and started a Ph.D. somewhat tentat
 Beyond research, I'm really into the Aerospace industry ✈️ (but not quite up to Cosmology).  
 My life mottos are *Quantity leads to quality* and *Fake it till you make it*\\
 In my free time, I enjoy:
-- **Building** — anything from the ground up (e.g. food, furniture, websites/ios apps/automatic programs)  
-- **Reading** — classical literature from China and Japan (e.g. 聊齋志異, 紅樓夢, 羅生門)
+- **Building** — end-to-end projects (websites, automation tools, iOS apps; plus food & furniture).
+- **Reading** — (classical) literatures from China and Japan (e.g. 聊齋志異, 紅樓夢, 羅生門)
 
 ## 🎓 Education
 * Ph.D. [Physical Chemistry, University of Wisconsin-Madison](https://chem.wisc.edu/theoretical-computational/), 2029 (Expected)
