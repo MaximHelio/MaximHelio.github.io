@@ -45,8 +45,10 @@ In my free time, I enjoy:
 
 ## Teaching Experience
 - [Chem 103](https://guide.wisc.edu/courses/chem/) – General Chemistry I (Spring 2025)  
-- [Chem 109](https://guide.wisc.edu/courses/chem/) – Advanced General Chemistry (Fall 2024)  
-- [Donghang](https://www.donghaeng.seoul.kr/main.do) – Volunteer Instructor (Math/Physics/Chemistry), Myungduk high school (2016-2018)
+- [Chem 109](https://guide.wisc.edu/courses/chem/) – Advanced General Chemistry (Fall 2024) 
+- Mathematics, College of Education Affiliate - Ewha Womas University (2015-2018)
+- [Donghang](https://www.donghaeng.seoul.kr/main.do) – Volunteer Instructor (Math/Physics/Chemistry), Myungduk/Seonyoo/Jinmyeong girl's high school (2015-2018)
+- Part-time External Lecturer - Mokdong LeeSSAM Math/Daechi Impact cram school (2015-2017)
 
 ## Credentials & Recognitions
 * SQLD (Structured Query Language Developer), Korea Data Agency
