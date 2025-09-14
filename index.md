@@ -25,14 +25,14 @@ In my free time, I enjoy:
 - Course Project, UW–Madison, Department of Electrical & Computer Engineering, *2025.04.–2025.05.*
   - Final project in CS 761 (Mathematics for Machine Learning)
   - Advisor: Prof. Grigorios Chrysos  
-  [Partial Differential Equations in RKHS](./assets/PDE_RKHS.pdf)
+  [PDEs in RKHS](./assets/PDE_RKHS.pdf)
 - Graduate Researcher, UW–Madison, Department of Chemistry, *2024.12.–2025.05.*
   - Advisor: Prof. J.R. Schmidt  
   - Conducted Density Functional Theory (DFT) calculations using VASP to investigate electrocatalytic reaction mechanisms on Cu and Pt surfaces.
   - Studied adsorption behaviors of benzene (Bz) and hydrogen, and the Nudged Elastic Band (NEB) method to determine reaction pathways and energy barriers for the Oxygen Reduction Reaction (ORR).
 - Lab Rotation, UW–Madison, Department of Chemistry, *2024.10.–2024.11.*  
   - Advisor: Prof. Xuhui Huang  
-  [Markov State Model REVIEW](./assets/MSM.pdf)
+  [Markov State Model Review](./assets/MSM.pdf)
 - Undergrad Intern, Gwangju Institute of Science and Technology (GIST) *Summer, 2019.*
   - Advisor: Prof. Yoonsoo Pang  
   [Metal Enhanced Fluorescence](./assets/MEF_THEORY.pdf)
