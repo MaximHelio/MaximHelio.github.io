@@ -4,7 +4,9 @@ layout: homepage
 ## About
 
 I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years.  
-I moved to the U.S. largely to support my partner and began a Ph.D. a bit tentatively; but luckily and happily, I have since become deeply committed to and energized by the research.\\
+
+My current research interests lie in advancing predictive molecular and materials simulation by (i) pushing the accuracy and reliability of classical electronic-structure methods, (ii) developing hybrid quantum–classical operator execution for chemistry, and (iii) building excited-state dynamics workflows with quantified uncertainty. Broadly, I am always curious at AI/ML (including LLMs) to accelerate modeling, code, and decision-making in the loop.
+
 My life motto is *Quantity leads to quality*.\\
 In my free time, I enjoy:
 - **Building** — end-to-end projects (e.g. furniture, food, automation tools for my real purposes)
@@ -42,8 +44,8 @@ In my free time, I enjoy:
 - [CV](https://www.linkedin.com/in/haejung-koh/)
 
 ## Teaching Experience
-- **Chem 103** – General Chemistry I (Spring 2025)  
-- **Chem 109** – Advanced General Chemistry (Fall 2024)  
+- [Chem 103](https://guide.wisc.edu/courses/chem/) – General Chemistry I (Spring 2025)  
+- [Chem 109](https://guide.wisc.edu/courses/chem/) – Advanced General Chemistry (Fall 2024)  
 - [Donghang](https://www.donghaeng.seoul.kr/main.do) – Volunteer Instructor (Math/Physics/Chemistry), Myungduk high school (2016-2018)
 
 ## Credentials & Recognitions
