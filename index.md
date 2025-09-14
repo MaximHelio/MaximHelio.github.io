@@ -4,7 +4,7 @@ layout: homepage
 ## 👋 Introduction
 
 I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years.  
-I moved to the U.S. mainly due to my partner and started a Ph.D. somewhat tentatively; luckily and happily, I’m increasingly captivated by the research itself.\\
+I moved to the U.S. mainly due to my partner and started a Ph.D. somewhat tentatively; but luckily and happily, I’m increasingly captivated by the research itself.\\
 Beyond research, I'm really into the Aerospace industry ✈️ (but not quite up to Cosmology).  
 My life mottos are *Quantity leads to quality* and *Fake it till you make it*, as my respected professor, [Micheline](https://scholar.google.com/citations?user=I18VXOEAAAAJ&hl=en), reminded me again.\\
 In my free time, I enjoy:
@@ -12,7 +12,7 @@ In my free time, I enjoy:
 - **Reading** — classical literature from China and Japan (e.g. 聊齋志異, 紅樓夢, 羅生門)
 
 ## 🎓 Education
-* Ph.D [Physical Chemistry, University of Wisconsin-Madison](https://chem.wisc.edu/theoretical-computational/), 2029 (Expected)
+* Ph.D. [Physical Chemistry, University of Wisconsin-Madison](https://chem.wisc.edu/theoretical-computational/), 2029 (Expected)
 * B.S. [Chemistry and Nanoscience, Ewha Womans University](https://myr.ewha.ac.kr/engchem/index.do), 2021
   * Summa Cum Laude
   * Dean's List for 6 semesters
@@ -21,7 +21,7 @@ In my free time, I enjoy:
 ## 📚 Selected Project
 - Research Assistant, UW–Madison, Department of Physics, *2025.06.- present*
   - Advisor: [Prof. Matthew Otten](https://otten.physics.wisc.edu)
-  - Semi-stochastic Heat bath Configuration Interaction method, *manuscript soon*
+  - Semi-stochastic Heat bath Configuration Interaction method, *manuscript*
 - Course Project, UW–Madison, Department of Electrical & Computer Engineering, *2025.04.–2025.05.*
   - Final project in CS 761 (Mathematics for Machine Learning)
   - Advisor: Prof. Grigorios Chrysos  
@@ -39,7 +39,7 @@ In my free time, I enjoy:
 
 
 ## 👷‍♀️ Work Experience
-- [portfolio](./assets/Portfolio.pdf)
+- [Portfolio](./assets/Portfolio.pdf)
 - [CV](https://www.linkedin.com/in/haejung-koh/)
 
 ## 🧑‍🏫 Teaching Experience
