@@ -4,9 +4,9 @@ layout: homepage
 ## 👋 Introduction
 
 I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years.  
-I moved to the U.S. at my partner’s urging and started a Ph.D. somewhat tentatively; luckily and happily, I’ve been a lot engaged with the research itself.\\
+I moved to the U.S. at my partner’s urging and started a Ph.D. somewhat tentatively; luckily and happily, I’m increasingly captivated by the research itself.\\
 Beyond research, I'm really into the Aerospace industry ✈️ (but not quite up to Cosmology).  
-My life mottos are *Quantity leads to quality* and *Fake it till you make it*.\\
+My life mottos are *Quantity leads to quality* and *Fake it till you make it*, as my respected professor, [Micheline](https://scholar.google.com/citations?user=I18VXOEAAAAJ&hl=en), reminded me again\\
 In my free time, I enjoy:
 - **Building** — anything from the ground up (e.g. food, furniture, websites/ios apps/automatic programs)  
 - **Reading** — classical literature from China and Japan (e.g. 聊齋志異, 紅樓夢, 羅生門)
@@ -21,7 +21,7 @@ In my free time, I enjoy:
 ## 📚 Selected Project
 - Research Assistant, UW–Madison, Department of Physics, *2025.06.- present*
   - Advisor: [Prof. Matthew Otten](https://otten.physics.wisc.edu)
-  - Semi-stochastic Heat bath Configuration Interaction 
+  - Semi-stochastic Heat bath Configuration Interaction, *manuscript soon*
 - Course Project, UW–Madison, Department of Electrical & Computer Engineering, *2025.04.–2025.05.*
   - Final project in CS 761 (Mathematics for Machine Learning)
   - Advisor: Prof. Grigorios Chrysos  
