@@ -3,11 +3,11 @@ layout: homepage
 ---
 ## About
 
-I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years. What initially brought me to the U.S. was my partner, but luckily and happily, I've since become deeply engaged and energized by my research pursuits, too.
+I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years. What first led me to the U.S. was the wish to solve the ‘two-body problem’ with the one I love; yet luckily and happily, I have since become deeply engaged in the path of research, where I've discovered a more certain sense of purpose in my own existence.
 
 My current research interests lie in advancing predictive simulations of molecules and materials by (i) improving scalable electronic-structure methods (HCI, DFT), (ii) developing hybrid quantum–classical surrogate models for chemistry as the most decent applications of quantum computing, and (iii) building reliable excited-state dynamics workflows with quantified uncertainty. Broadly, I am always keen on AI/ML tools including LLMs to accelerate modeling and enhance decision-making within scientific computing.
 
-My life motto is *Inaction is proof of no intention;outcome is the sole truth*.\\
+My life motto is *Inaction is proof of no intention and inability; truth lies only in the outcome*.\\
 In my free time, I enjoy:
 - **Building** — end-to-end projects (e.g. furniture, food, automation tools for my real purposes)
 - **Reading** — (classical) literatures from China and Japan (e.g. 三體, 聊齋志異, 紅樓夢, 羅生門)
