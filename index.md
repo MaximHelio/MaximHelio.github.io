@@ -16,12 +16,12 @@ In my free time, I enjoy:
 * Ph.D. [Physical Chemistry, University of Wisconsin-Madison](https://chem.wisc.edu/theoretical-computational/), 2029 (Expected)
 * B.S. [Chemistry and Nanoscience, Ewha Womans University](https://myr.ewha.ac.kr/engchem/index.do), 2021
   * Summa Cum Laude
-  * Dean's List for 6 semesters
+  * Merit-based scholarships for 6 semesters
   * Awarded full-year full-tuition waiver upon admission
 
 ## Research Projects (Selected)
 - Research Assistant, UW–Madison, Department of Physics, *2025.06.- present*
-  - Advisor: [Prof. Matthew Otten](https://otten.physics.wisc.edu)
+  - Advisor: Prof. Matthew Otten
   - Semi-stochastic Heat bath Configuration Interaction method, *manuscript*
 - Course Project, UW–Madison, Department of Electrical & Computer Engineering, *2025.04.–2025.05.*
   - Final project in CS 761 (Mathematics for Machine Learning)
