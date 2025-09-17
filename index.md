@@ -25,7 +25,7 @@ In my free time, I enjoy:
   - Semi-stochastic Heat bath Configuration Interaction method, *manuscript*
 - Course Project, UW–Madison, Department of Electrical & Computer Engineering, *2025.04.–2025.05.*
   - Advisor: Prof. Grigorios Chrysos  
-  - Final project in CS 761 (Mathematics for Machine Learning)
+  - Final project in CS 761 (Mathematics for Machine Learning)\\
   [PDEs in RKHS](./assets/PDE_RKHS.pdf)
 - Graduate Researcher, UW–Madison, Department of Chemistry, *2024.12.–2025.05.*
   - Advisor: Prof. J.R. Schmidt  
