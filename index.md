@@ -3,7 +3,7 @@ layout: homepage
 ---
 ## About
 
-I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years. What first led me to the U.S. was to solve the ‘two-body problem’ with the one I love; yet luckily and happily, I have since become deeply engaged in the research, where I've discovered a more certain sense of social purpose.
+I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years. What first led me to the U.S. was to solve the ‘two-body problem’ with my partner; yet luckily and happily, I have since become deeply engaged in the research, where I've discovered a more certain sense of purpose.
 
 My current research interests lie in advancing predictive simulations of molecules and materials by (i) improving scalable electronic-structure methods (HCI, DFT), (ii) developing hybrid quantum–classical surrogate models for chemistry as the most decent applications of quantum computing, and (iii) building reliable excited-state dynamics workflows with quantified uncertainty. Broadly, I am always keen on AI/ML tools including LLMs to accelerate modeling and enhance decision-making within scientific computing.
 
@@ -49,11 +49,11 @@ In my free time, I enjoy:
 - [Donghang](https://www.donghaeng.seoul.kr/main.do) – Volunteer Instructor (Math/Physics/Chemistry), Myungduk/Jinmyeong girl's high school (2015-2018)
 
 ## Credentials & Recognitions
-- SQLD (Structured Query Language Developer), Korea Data Agency  
-  - Passed national certification exam focused on relational database theory and SQL optimization.
-- Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea)  
-  - National technical license covering software development, system analysis, and data processing principles.
-- [Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)  
-  - Completed a full-time software development program funded by Samsung Electronics.
-  - Focused on programming, algorithm optimization, and web development.
-  
+- SQLD (Structured Query Language Developer), Korea Data Agency<br>
+  Passed national certification exam focused on relational database theory and SQL optimization.
+- Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea)<br>
+  National technical license covering software development, network, system analysis, and data processing principles.
+- [Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)<br>
+  Completed a full-time software development program funded by Samsung Electronics.<br>
+  Focused on programming, algorithm optimization, and web development.
+
