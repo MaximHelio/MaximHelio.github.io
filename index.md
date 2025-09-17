@@ -49,11 +49,11 @@ In my free time, I enjoy:
 - [Donghang](https://www.donghaeng.seoul.kr/main.do) – Volunteer Instructor (Math/Physics/Chemistry), Myungduk/Jinmyeong girl's high school (2015-2018)
 
 ## Credentials & Recognitions
-**SQLD (Structured Query Language Developer), Korea Data Agency**  
+- **SQLD (Structured Query Language Developer), Korea Data Agency**  
 Passed national certification exam focused on relational database theory and SQL optimization.<br>
-**Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea)**  
+- **Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea)**  
 National technical license covering software development, network, system analysis, and data processing principles.<br>
-**[Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)**  
+- **[Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)**  
 Completed a full-time software development program funded by Samsung Electronics.  
 Focused on programming, algorithm optimization, and web development.
 
