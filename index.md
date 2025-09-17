@@ -3,11 +3,11 @@ layout: homepage
 ---
 ## About
 
-I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years. What first led me to the U.S. was to solve the ‘two-body problem’ with the one I love; yet luckily and happily, I have since become deeply engaged in the research, where I've discovered a more certain sense of purpose.
+I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry, Nanoscience, and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years. What first led me to the U.S. was to solve the ‘two-body problem’ with the one I love; yet luckily and happily, I have since become deeply engaged in the research, where I've discovered a more certain sense of social purpose.
 
 My current research interests lie in advancing predictive simulations of molecules and materials by (i) improving scalable electronic-structure methods (HCI, DFT), (ii) developing hybrid quantum–classical surrogate models for chemistry as the most decent applications of quantum computing, and (iii) building reliable excited-state dynamics workflows with quantified uncertainty. Broadly, I am always keen on AI/ML tools including LLMs to accelerate modeling and enhance decision-making within scientific computing.
 
-My life motto is *Let action speak*.\\
+Outside my main research, I enjoy exploring the fields of aerospace and laser photochemistry.
 In my free time, I enjoy:
 - **Building** — end-to-end projects (e.g. furniture, food, automation tools for my real purposes)
 - **Reading** — (classical) literatures from China and Japan (e.g. 三體, 聊齋志異, 紅樓夢, 羅生門)
@@ -24,8 +24,8 @@ In my free time, I enjoy:
   - Advisor: Prof. Matthew Otten
   - Semi-stochastic Heat bath Configuration Interaction method, *manuscript*
 - Course Project, UW–Madison, Department of Electrical & Computer Engineering, *2025.04.–2025.05.*
-  - Final project in CS 761 (Mathematics for Machine Learning)
   - Advisor: Prof. Grigorios Chrysos  
+  - Final project in CS 761 (Mathematics for Machine Learning)
   [PDEs in RKHS](./assets/PDE_RKHS.pdf)
 - Graduate Researcher, UW–Madison, Department of Chemistry, *2024.12.–2025.05.*
   - Advisor: Prof. J.R. Schmidt  
@@ -36,7 +36,7 @@ In my free time, I enjoy:
   [Markov State Model Review](./assets/MSM.pdf)
 - Undergrad Intern, Gwangju Institute of Science and Technology (GIST) *Summer, 2019.*
   - Advisor: Prof. Yoonsoo Pang  
-  [Metal Enhanced Fluorescence](./assets/MEF_THEORY.pdf)
+  [Metal-Enhanced Fluorescence](./assets/MEF_THEORY.pdf)
 
 
 ## Work Experience
