@@ -55,4 +55,4 @@ In my free time, I enjoy:
   * National technical license covering software development, system analysis, and data processing principles.
 * [Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)
   * Completed a full-time software development program funded by Samsung Electronics.
-  * Focused on algorithm optimization, and web project deployment.
+  * Focused on programming fundamentals, algorithm optimization and web project deployment.
