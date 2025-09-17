@@ -46,6 +46,7 @@ In my free time, I enjoy:
 ## Teaching Experience
 - [Chem 103](https://guide.wisc.edu/courses/chem/) – General Chemistry I (Spring 2025)  
 - [Chem 109](https://guide.wisc.edu/courses/chem/) – Advanced General Chemistry (Fall 2024) 
+- Affiliated with the Department of Mathematics and Science Education, Ewha Womans university (2015-2018)
 - [Donghang](https://www.donghaeng.seoul.kr/main.do) – Volunteer Instructor (Math/Physics/Chemistry), Myungduk/Jinmyeong girl's high school (2015-2018)
 
 ## Credentials & Recognitions
