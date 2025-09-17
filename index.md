@@ -50,10 +50,10 @@ In my free time, I enjoy:
 
 ## Credentials & Recognitions
 - SQLD (Structured Query Language Developer), Korea Data Agency<br>
-  Passed national certification exam focused on relational database theory and SQL optimization.
+  - Passed national certification exam focused on relational database theory and SQL optimization.
 - Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea)<br>
-  National technical license covering software development, network, system analysis, and data processing principles.
+  - National technical license covering software development, network, system analysis, and data processing principles.
 - [Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)<br>
-  Completed a full-time software development program funded by Samsung Electronics.<br>
-  Focused on programming, algorithm optimization, and web development.
+  - Completed a full-time software development program funded by Samsung Electronics.<br>
+  - Focused on programming, algorithm optimization, and web development.
 
