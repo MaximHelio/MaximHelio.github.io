@@ -3,11 +3,12 @@ layout: homepage
 ---
 ## About
 
-I’m originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). After majoring in Chemistry and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years. What first led me to the U.S. was to solve the ‘two-body problem’ with my partner; yet luckily and happily, I have since become deeply engaged in the research, where I've discovered a more certain sense of purpose.
+I come from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju), where the democratic and cultural environment has shaped the way I view society as well as my sense of the role I should play within it. After majoring in Chemistry and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years. What first led me to the U.S. was to solve the ‘two-body problem’ with my partner; yet luckily and happily, I have since become deeply engaged in the research, where I’ve discovered a more meaningful direction in my work and life.
 
-My current research interests lie in advancing predictive simulations of molecules and materials by (i) improving scalable electronic-structure methods (HCI, DFT), (ii) developing hybrid quantum–classical surrogate models for chemistry as the most decent applications of quantum computing, and (iii) building reliable excited-state dynamics workflows with quantified uncertainty. Broadly, I am always keen on AI/ML tools including LLMs to accelerate modeling and enhance decision-making within scientific computing.
+My current research interests lie in advancing predictive simulations of molecules and materials by (i) improving scalable electronic-structure methods (HCI, DFT), (ii) developing hybrid quantum–classical surrogate models for chemistry as the most decent applications of quantum computing, and (iii) building reliable excited-state dynamics workflows with quantified uncertainty. Broadly, I am always keen on AI/ML tools including LLMs to accelerate modeling and enhance decision-making within the scientific computing.
 
 Beyond my research, I enjoy exploring the fields of aerospace and laser photochemistry.\\
+Etched into my life is the motto: *What matters is failing in time.*\\
 In my free time, I enjoy:
 - **Building** — end-to-end projects (e.g. furniture, food, automation tools for my real purposes)
 - **Reading** — (classical) literatures from China and Japan (e.g. 三體, 聊齋志異, 紅樓夢, 羅生門)
