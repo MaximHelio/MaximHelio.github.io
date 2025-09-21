@@ -3,12 +3,11 @@ layout: homepage
 ---
 ## About
 
-I come from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). Majoring in Chemistry and Nanoscience and Computer Engineering, I worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years. What first led me to the U.S. was the pursuit of a better job and a higher salary; yet luckily and happily, I have since become deeply engaged in the research, where I’ve discovered a more meaningful direction in my life.
+I am originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). I majored in Chemistry, Nanoscience and Computer Engineering and worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years. The direction of my life has leaned not toward success, but toward failing in time. And those experiences and assets have continually guided me to discover ever more meaningful paths in my life.
 
 My current research interests lie in advancing predictive simulations of molecules and materials by (i) improving scalable electronic-structure methods (HCI, DFT), (ii) developing hybrid quantum–classical surrogate models for chemistry as the most decent applications of quantum computing, and (iii) building reliable excited-state dynamics workflows with quantified uncertainty. Broadly, I am always keen on AI/ML tools including LLMs to accelerate modeling and enhance decision-making within the scientific computing.
 
 Beyond my research, I enjoy exploring the fields of aerospace and laser photochemistry.\\
-Etched into my life is the motto: *What matters is failing in time.*\\
 In my free time, I enjoy:
 - **Building** — end-to-end projects (e.g. furniture, food, automation tools for my real purposes)
 - **Reading** — (classical) literatures from China and Japan (e.g. 三體, 聊齋志異, 紅樓夢, 羅生門)
