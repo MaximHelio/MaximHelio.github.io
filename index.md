@@ -57,7 +57,5 @@ Beyond my research, I enjoy exploring the fields of aerospace, robotics, and las
 In my free time, I enjoy:
 - **Making** — end-to-end projects 
 (e.g., furniture, food, and automation tools for my real purposes — grading, translation, cleaning, ....)
-- **Experimenting the latest AI tools
-()
 - **Reading** — literature from China and Japan (e.g., 三體, 聊齋志異, 紅樓夢, 羅生門).
 
