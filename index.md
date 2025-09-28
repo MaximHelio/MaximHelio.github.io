@@ -3,14 +3,9 @@ layout: homepage
 ---
 ## About
 
-I am originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). I majored in Chemistry, Nanoscience and Computer Engineering and worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years. The direction of my life has leaned not toward success, but toward failing in time. And those experiences and assets have continually guided me to discover ever more meaningful paths in my life, I believe.
+I am originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). I majored in Chemistry, Nanoscience and Computer Engineering and worked as a [software developer](./assets/Portfolio.pdf) in Seoul for three years. 
 
 My current research interests lie in advancing predictive simulations of molecules and materials by (i) improving scalable electronic-structure methods (HCI, DFT), (ii) developing hybrid quantum–classical surrogate models for chemistry as the most decent applications of quantum computing, and (iii) building reliable excited-state dynamics workflows with quantified uncertainty. Broadly, I am always keen on AI/ML tools including LLMs to accelerate modeling and enhance decision-making within the scientific computing.
-
-Beyond my research, I enjoy exploring the fields of aerospace and laser photochemistry.\\
-In my free time, I enjoy:
-- **Building** — end-to-end projects (e.g. furniture, food, automation tools for my real purposes)
-- **Reading** — (classical) literatures from China and Japan (e.g. 三體, 聊齋志異, 紅樓夢, 羅生門)
 
 ## Education
 * Ph.D. [Physical Chemistry, University of Wisconsin-Madison](https://chem.wisc.edu/theoretical-computational/), 2029 (Expected)
@@ -22,7 +17,7 @@ In my free time, I enjoy:
 ## Research Projects (Selected)
 - Research Assistant, UW–Madison, Department of Physics, *2025.06.- present*
   - Advisor: Prof. Matthew Otten
-  - Semi-stochastic Heat bath Configuration Interaction method, *manuscript*
+  - Semi-stochastic Heat bath Configuration Interaction, *manuscript*
 - Course Project, UW–Madison, Department of Electrical & Computer Engineering, *2025.04.–2025.05.*
   - Advisor: Prof. Grigorios Chrysos  
   - Final project in CS 761 (Mathematics for Machine Learning)\\
@@ -46,7 +41,6 @@ In my free time, I enjoy:
 ## Teaching Experience
 - [Chem 103](https://guide.wisc.edu/courses/chem/) – General Chemistry I (Spring 2025)  
 - [Chem 109](https://guide.wisc.edu/courses/chem/) – Advanced General Chemistry (Fall 2024) 
-- Affiliated with the Department of Mathematics and Science Education, Ewha Womans university (2015-2018)
 - [Donghang](https://www.donghaeng.seoul.kr/main.do) – Volunteer Instructor (Math/Physics/Chemistry), Myungduk/Jinmyeong girl's high school (2015-2018)
 
 ## Credentials & Recognitions
@@ -56,6 +50,14 @@ Passed national certification exam focused on relational database theory and SQL
 National technical license covering software development, network, system analysis, and data processing principles.<br>
 - **[Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)**  
 Completed a full-time software development program funded by Samsung Electronics.  
-Focused on programming, algorithm optimization, and web development.
+Focused on python, algorithm optimization, and web development.
 
+## Miscellaneous
+Beyond my research, I enjoy exploring the fields of aerospace, robotics, and laser spectroscopy.\\
+In my free time, I enjoy:
+- **Making** — end-to-end projects 
+(e.g., furniture, food, and automation tools for my real purposes — grading, translation, cleaning, ....)
+- **Experimenting the latest AI tools
+()
+- **Reading** — literature from China and Japan (e.g., 三體, 聊齋志異, 紅樓夢, 羅生門).
 
