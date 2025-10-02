@@ -41,6 +41,7 @@ My current research interests lie in advancing predictive simulations of molecul
 ## Teaching Experience
 - [Chem 103](https://guide.wisc.edu/courses/chem/) – General Chemistry I (Spring 2025)  
 - [Chem 109](https://guide.wisc.edu/courses/chem/) – Advanced General Chemistry (Fall 2024) 
+- Department of Mathematics and Science education, College of Education Affiliate- Ewha Womans University (2015-2018)
 - [Donghang](https://www.donghaeng.seoul.kr/main.do) – Volunteer Instructor (Math/Physics/Chemistry), Myungduk/Jinmyeong girl's high school (2015-2018)
 
 ## Credentials & Recognitions
@@ -57,5 +58,5 @@ Beyond my research, I enjoy exploring the fields of aerospace, robotics, and las
 In my free time, I enjoy:
 - **Making** — end-to-end projects 
 (e.g., furniture, food, and automation tools for my real purposes — grading, translation, cleaning, ....)
-- **Reading** — literature from China and Japan (e.g., 三體, 聊齋志異, 紅樓夢, 羅生門).
-
+- **Exploring** — new AI tools and everyday robots
+- Reading — literatures from China and Japan (e.g., 三體, 聊齋志異, 紅樓夢, 羅生門).
