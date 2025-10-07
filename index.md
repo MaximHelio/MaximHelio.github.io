@@ -7,14 +7,6 @@ I am originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangj
 
 My current research interests lie in advancing predictive simulations of molecules and materials by (i) improving scalable electronic-structure methods (HCI, DFT), (ii) developing hybrid quantum–classical surrogate models for chemistry as the most decent applications of quantum computing, and (iii) building reliable excited-state dynamics workflows with quantified uncertainty. Broadly, I am always keen on AI/ML tools including LLMs to accelerate modeling and enhance decision-making within the scientific computing.
 
-## Miscellaneous
-Beyond my research, I enjoy exploring the fields of aerospace, robotics, and laser spectroscopy.\\
-In my free time, I enjoy:
-- **Making** — end-to-end projects 
-(e.g., automation tools for my real purposes — grading, translation, cleaning, ....)
-- **Exploring** — new AI tools and everyday robots
-- Reading — literatures from China and Japan (e.g., 三體, 聊齋志異, 紅樓夢, 羅生門).
-
 ## Education
 * Ph.D. [Physical Chemistry, University of Wisconsin-Madison](https://chem.wisc.edu/theoretical-computational/), 2029 (Expected)
 * B.S. [Chemistry and Nanoscience, Ewha Womans University](https://myr.ewha.ac.kr/engchem/index.do), 2021
@@ -55,3 +47,11 @@ National technical license covering software development, network, system analys
 - **[Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)**  
 Completed a full-time software development program funded by Samsung Electronics.  
 Focused on python, algorithm optimization, and web development.
+
+## Miscellaneous
+Beyond my research, I enjoy exploring the fields of aerospace, robotics, and laser spectroscopy.\\
+In my free time, I enjoy:
+- **Making** — end-to-end projects 
+(e.g., automation tools for my real purposes — grading, translation, cleaning, ....)
+- **Exploring** — new AI tools and everyday robots
+- Reading — literatures from China and Japan (e.g., 三體, 聊齋志異, 紅樓夢, 羅生門).
