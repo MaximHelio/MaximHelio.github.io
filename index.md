@@ -37,10 +37,10 @@ My current research interests lie in advancing predictive simulations of molecul
 ## Teaching Experience
 - [Chem 103](https://guide.wisc.edu/courses/chem/) – General Chemistry I (Spring 2025)  
 - [Chem 109](https://guide.wisc.edu/courses/chem/) – Advanced General Chemistry (Fall 2024) 
-- [External Lecture/Outsourcing](https://soomgo.com/profile/users/12391091?prev=searchPro&hasFilter=false&serviceSelected=false&from=search_result)
-  - [Lecture Notes](https://github.com/ovdncids)
 - Department of Mathematics and Science Education, College of Education, Ewha Womans University (2015-2018)
 - [Donghang](https://www.donghaeng.seoul.kr/main.do) – Volunteer Instructor (Math/Physics/Chemistry), Myungduk/Jinmyeong girl's high school (2015-2018)
+- [External Lecture/Outsourcing](https://soomgo.com/profile/users/12391091?prev=searchPro&hasFilter=false&serviceSelected=false&from=search_result)
+  - [Lecture Notes](https://github.com/ovdncids)
 
 ## Credentials & Recognitions
 - **SQLD (Structured Query Language Developer), Korea Data Agency**  
