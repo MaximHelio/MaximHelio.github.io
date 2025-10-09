@@ -37,6 +37,9 @@ My current research interests lie in advancing predictive simulations of molecul
 ## Teaching Experience
 - [Chem 103](https://guide.wisc.edu/courses/chem/) – General Chemistry I (Spring 2025)  
 - [Chem 109](https://guide.wisc.edu/courses/chem/) – Advanced General Chemistry (Fall 2024) 
+- [External Lecture/Outsourcing](https://soomgo.com/profile/users/12391091?prev=searchPro&hasFilter=false&serviceSelected=false&from=search_result)
+  - [Lecture Notes](https://github.com/ovdncids)
+- Department of Mathematics and Science Education, College of Education, Ewha Womans University (2015-2018)
 - [Donghang](https://www.donghaeng.seoul.kr/main.do) – Volunteer Instructor (Math/Physics/Chemistry), Myungduk/Jinmyeong girl's high school (2015-2018)
 
 ## Credentials & Recognitions
@@ -45,7 +48,7 @@ Passed national certification exam focused on relational database theory and SQL
 - **Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea)**  
 National technical license covering software development, network, system analysis, and data processing principles.<br>
 - **[Samsung Software Academy for Youth (SSAFY) 5th, Samsung Electronics](https://csr.samsung.com/en/program/samsung-sw-academy-for-youth)**  
-Completed a full-time software development program funded by Samsung Electronics.  
+Completed a full-time software development program funded by Samsung Electronics.
 Focused on python, algorithm optimization, and web development.
 
 ## Miscellaneous
