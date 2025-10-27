@@ -17,6 +17,7 @@ My current research interests lie in advancing predictive simulations of molecul
 ## Research Projects (Selected)
 - Research Assistant, UW–Madison, Department of Physics, *2025.06.- present*
   - Advisor: Prof. Matthew Otten
+  - Semi-stochastic Heat bath Configuration Interaction (SHCI) Benchmarks for Catalytically Relevant Strongly Correlated Systems *manuscript*
 - Course Project, UW–Madison, Department of Electrical & Computer Engineering, *2025.04.–2025.05.*
   - Advisor: Prof. Grigorios Chrysos  
   - Final project in CS 761 (Mathematics for Machine Learning)\\
